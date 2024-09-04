@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\2024-25\\hunor2024\\Asztali\\100 N\u00E9pszer\u0171\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39646F9-6468-4BEE-A4DC-BD5D21E80EC4}|100 N\u00E9pszer\u0171\\100 N\u00E9pszer\u0171.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\2024-25\\hunor2024\\asztali\\100 n\u00E9pszer\u0171\\100 n\u00E9pszer\u0171\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39646F9-6468-4BEE-A4DC-BD5D21E80EC4}|100 N\u00E9pszer\u0171\\100 N\u00E9pszer\u0171.csproj|solutionrelative:100 n\u00E9pszer\u0171\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\2024-25\\hunor2024\\Asztali\\100 N\u00E9pszer\u0171\\100 N\u00E9pszer\u0171\\Program.cs",
+              "RelativeDocumentMoniker": "100 N\u00E9pszer\u0171\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\2024-25\\hunor2024\\Asztali\\100 N\u00E9pszer\u0171\\100 N\u00E9pszer\u0171\\Program.cs",
+              "RelativeToolTip": "100 N\u00E9pszer\u0171\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:53:01.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

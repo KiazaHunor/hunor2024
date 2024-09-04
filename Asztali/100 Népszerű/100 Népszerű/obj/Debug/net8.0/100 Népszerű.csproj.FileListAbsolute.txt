@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\bin\Debug\net8.0\100 Népszerű.exe
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\bin\Debug\net8.0\100 Népszerű.deps.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\bin\Debug\net8.0\100 Népszerű.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\bin\Debug\net8.0\100 Népszerű.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\bin\Debug\net8.0\100 Népszerű.pdb
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\refint\100 Népszerű.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.pdb
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\100 Népszerű.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\100 Népszerű\100 Népszerű\obj\Debug\net8.0\ref\100 Népszerű.dll
