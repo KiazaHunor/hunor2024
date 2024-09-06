@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\bin\Debug\net8.0\Vezeteknevek.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\bin\Debug\net8.0\Vezeteknevek.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\bin\Debug\net8.0\Vezeteknevek.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\bin\Debug\net8.0\Vezeteknevek.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\bin\Debug\net8.0\Vezeteknevek.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\refint\Vezeteknevek.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\Vezeteknevek.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Vezeteknevek\Vezeteknevek\obj\Debug\net8.0\ref\Vezeteknevek.dll
