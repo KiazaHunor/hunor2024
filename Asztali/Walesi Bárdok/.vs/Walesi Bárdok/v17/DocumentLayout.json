@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Walesi B\u00E1rdok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDEEEC9-A9EA-4B4D-8FD4-6B52C9F7A0F2}|Walesi B\u00E1rdok\\Walesi B\u00E1rdok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\walesi b\u00E1rdok\\walesi b\u00E1rdok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDEEEC9-A9EA-4B4D-8FD4-6B52C9F7A0F2}|Walesi B\u00E1rdok\\Walesi B\u00E1rdok.csproj|solutionrelative:walesi b\u00E1rdok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Walesi B\u00E1rdok\\Walesi B\u00E1rdok\\Program.cs",
+              "RelativeDocumentMoniker": "Walesi B\u00E1rdok\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Walesi B\u00E1rdok\\Walesi B\u00E1rdok\\Program.cs",
+              "RelativeToolTip": "Walesi B\u00E1rdok\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:04:18.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
