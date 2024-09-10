@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form oninput="myFunction()">
+    <input  id="pi_input" type="range" min="1" max="20"  />
+    <p>Oszlop: <output id="value"></output></p>
+
+    <input oninput="myFunction" id="halo" type="range" min="1" max="20"  />
+    <p>Sor: <output id="ertek"></output></p>
+    </form>
+
+
+    
+    <script>
+    const value = document.querySelector("#value").value;
+    const ertek = document.querySelector("#ertek").value;
+    const halo = document.querySelector("#halo").value;
+    const input = document.querySelector("#pi_input").value;
+    value.textContent = input.value;
+    ertek.textContent =halo.ertek;
+    halo.addEventListener("change", (event) => {
+        
+        
+        ertek.textContent = event.target.value;
+    });
+    input.addEventListener("change", (event) => {
+        
+        value.textContent = event.target.value;
+    });
+
+    
+    function myFunction(halo,input) {
+        for(let i = 0; i < halo; i++)
+        {
+            for(let i = 0; i < input; i++)
+            {
+                
+            }
+        }
+    
+    }
+    document.getElementById("halo").innerHTML=input,halo;
+    /*
+    const igen =
+    {
+        ertek,value, egybe:function(){return this.ertek * this.value;}
+    }
+    document.getElementById("akos").innerHTML=igen.egybe();*/
+    </script>
+
+    
+</body>
+</html>
