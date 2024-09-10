@@ -1,0 +1,5 @@
+Szavak: alanyok, állitmányok, jelzők (file)
+listákba rakni
+random elemek 
+összefűzni
+100 db file

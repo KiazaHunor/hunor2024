@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQH4mXqQfts=",
+  "success": true,
+  "projectFilePath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\Szogenerator\\Szogenerator\\Szogenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\horvathh21\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\horvathh21\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\horvathh21\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
