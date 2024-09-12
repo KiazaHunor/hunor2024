@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\bin\Debug\net8.0\szogenerator2.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\bin\Debug\net8.0\szogenerator2.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\bin\Debug\net8.0\szogenerator2.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\bin\Debug\net8.0\szogenerator2.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\bin\Debug\net8.0\szogenerator2.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\refint\szogenerator2.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\szogenerator2.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\szogenerator2\szogenerator2\obj\Debug\net8.0\ref\szogenerator2.dll
