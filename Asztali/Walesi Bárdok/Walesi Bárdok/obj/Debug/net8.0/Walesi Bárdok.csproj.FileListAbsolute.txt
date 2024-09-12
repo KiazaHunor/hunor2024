@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\bin\Debug\net8.0\Walesi Bárdok.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\bin\Debug\net8.0\Walesi Bárdok.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\bin\Debug\net8.0\Walesi Bárdok.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\bin\Debug\net8.0\Walesi Bárdok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\bin\Debug\net8.0\Walesi Bárdok.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\refint\Walesi Bárdok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\Walesi Bárdok.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\Walesi Bárdok\Walesi Bárdok\obj\Debug\net8.0\ref\Walesi Bárdok.dll

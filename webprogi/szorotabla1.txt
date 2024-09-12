@@ -1,0 +1,2 @@
+2 beviteli lehetőség 1-20ig, megjelenített tábálázat szerű dolog (szorzó tábla szerű)
+Változik a bevitel=változik a megjelenített menő 

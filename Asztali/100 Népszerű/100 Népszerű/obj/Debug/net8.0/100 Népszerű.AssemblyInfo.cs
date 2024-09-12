@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("100 Népszerű")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d426d916dd26c527b543b98136653ab0468207")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89366ccf410dfcd990291e20362642f79646de03")]
 [assembly: System.Reflection.AssemblyProductAttribute("100 Népszerű")]
 [assembly: System.Reflection.AssemblyTitleAttribute("100 Népszerű")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

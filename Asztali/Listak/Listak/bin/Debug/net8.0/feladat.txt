@@ -1,0 +1,4 @@
+Függvény ami ezt a filet beolvassa egy listaba és visszaadja ertekkent
+Függvény megkapja a listát végre hajt egy muveletet minden egyes elemen 
+Muvelet egy fuggveny ami megkapja azt az egy sort+ megkap egy szamot hogy a mondat hanyadik szavat kell visszaadni (lehet random szam)
+szavak összegyüjtése listában a listát adja vissza a függvény
