@@ -1,0 +1,1 @@
+ember adatait (névjegyek)  tartalmazza=  classok,konstruktor 
