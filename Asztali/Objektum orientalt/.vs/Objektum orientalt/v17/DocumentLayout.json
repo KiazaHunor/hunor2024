@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\objektum orientalt\\objektum orientalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|solutionrelative:objektum orientalt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\objektum orientalt\\objektum orientalt\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|solutionrelative:objektum orientalt\\hajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\objektum orientalt\\objektum orientalt\\ihajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D661FEFF-1FD9-415D-B67F-A95EAF2A2ABF}|Objektum orientalt\\Objektum orientalt.csproj|solutionrelative:objektum orientalt\\ihajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hajo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\Hajo.cs",
+              "RelativeDocumentMoniker": "Objektum orientalt\\Hajo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\Hajo.cs",
+              "RelativeToolTip": "Objektum orientalt\\Hajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:54:57.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHajo.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\IHajo.cs",
+              "RelativeDocumentMoniker": "Objektum orientalt\\IHajo.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\IHajo.cs",
+              "RelativeToolTip": "Objektum orientalt\\IHajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:51:11.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\Program.cs",
+              "RelativeDocumentMoniker": "Objektum orientalt\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Objektum orientalt\\Objektum orientalt\\Program.cs",
+              "RelativeToolTip": "Objektum orientalt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:54:07.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="button" value="Generáljon egy táblázatot" onclick="generateTable()" />
+
+    <style>
+        table 
+        {
+            margin: 1rem auto;
+        }
+        td 
+        {
+            padding-top: 10px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 40px;
+        }
+    </style>
+
+
+
+
+ <script>
+    function generateTable() {
+
+    let elso =prompt("add meg a paramétereket:")
+ 
+  const tbl = document.createElement("table");
+  const tblBody = document.createElement("tbody");
+
+  
+  for (let i = 0; i < elso; i++) {
+    
+    const row = document.createElement("tr");
+
+    for (let j = 0; j < elso; j++) {
+      
+      const cell = document.createElement("td");
+      let cellText = document.createElement("img");
+      cell.setAttribute("src","cr7.jfif");
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+    }
+
+    
+    tblBody.appendChild(row);
+  }
+
+  
+  tbl.appendChild(tblBody);
+  
+  document.body.appendChild(tbl);
+  
+  tbl.setAttribute("border","2");
+}
+
+ </script>
+
+     
+</body>
+</html>

@@ -1,1 +1,14 @@
-ember adatait (névjegyek)  tartalmazza=  classok,konstruktor 
+
+objectum interfaceval hajokkal kapcsolatban
+
+
+osztály egy altalanos vizijarmuvel kapcsolatban  hossz,szélesség,stb...
+Vitorlás leszármazott,csónak leszarmazott   
+
+Tömegáru-szállító hajó
+Tartályhajó
+Tankhajó
+Ore-bulk-oil carrier (OBO)
+Konténerszállító hajó
+Autószállító hajó
+Hűtőhajó
