@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\ablakablakban\\ablakablakban\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EEDD6EE5-C003-480F-BA64-95E9E7C6A9F7}|ablakablakban\\ablakablakban.csproj|solutionrelative:ablakablakban\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "ablakablakban\\Window2.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window2.xaml.cs",
+              "RelativeToolTip": "ablakablakban\\Window2.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:22:59.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window1.xaml",
+              "RelativeDocumentMoniker": "ablakablakban\\Window1.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window1.xaml",
+              "RelativeToolTip": "ablakablakban\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:59:25.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ablakablakban\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ablakablakban\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvyEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:58:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "ablakablakban\\Window1.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window1.xaml.cs",
+              "RelativeToolTip": "ablakablakban\\Window1.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwCUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:06:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window2.xaml",
+              "RelativeDocumentMoniker": "ablakablakban\\Window2.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\Window2.xaml",
+              "RelativeToolTip": "ablakablakban\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:23:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ablakablakban\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\ablakablakban\\ablakablakban\\MainWindow.xaml",
+              "RelativeToolTip": "ablakablakban\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:58:34.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
