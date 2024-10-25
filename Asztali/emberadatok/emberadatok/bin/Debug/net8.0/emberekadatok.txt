@@ -1,14 +1,26 @@
+function tablaMeret()
+{
+    //document.getElementById("tabla").innerHTML="";
+    const sor = document.getElementById("sorok").value;
+    const oszlop = document.getElementById("oszlopok").value;
+    
+    for(let i = 0; i<sor;i++)
+    {
+        let tempSor=document.createElement("tr");
+        for(let k = 0; k<oszlop;k++)
+        {
+            let tempCella=document.createElement("td");
 
-objectum interfaceval hajokkal kapcsolatban
+            tempCella.addEventListener("dblclick",function(){
+                //this.style.background="black";
+
+                this.classList.toggle("kattintott")
+                this.appendChild(inputKeszit(""));
 
 
-osztály egy altalanos vizijarmuvel kapcsolatban  hossz,szélesség,stb...
-Vitorlás leszármazott,csónak leszarmazott   
-
-Tömegáru-szállító hajó
-Tartályhajó
-Tankhajó
-Ore-bulk-oil carrier (OBO)
-Konténerszállító hajó
-Autószállító hajó
-Hűtőhajó
+            })
+            tempSor.appendChild(tempCella);
+        }
+        document.getElementById("tabla").appendChild(tempSor);
+    }
+}

@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gyakorlás</title>
-    <link rel="stylesheet" href="gyakszi1015.css">
-    <script src="gyakszi1015.js"></script>
+    
 </head>
 <body onload="init()">
     
@@ -20,11 +19,13 @@
     tablaMeret();
 }
 
-function tablaMeret()
+function tablaMeret_old()
 {
-    document.getElementById("tabla").innerHTML="";
+    //document.getElementById("tabla").innerHTML="";
     const sor = document.getElementById("sorok").value;
     const oszlop = document.getElementById("oszlopok").value;
+
+    
     
     for(let i = 0; i<sor;i++)
     {
@@ -37,11 +38,112 @@ function tablaMeret()
                 //this.style.background="black";
 
                 this.classList.toggle("kattintott")
+                this.appendChild(inputKeszit(""));
+
+
             })
             tempSor.appendChild(tempCella);
         }
         document.getElementById("tabla").appendChild(tempSor);
     }
+}
+
+function tablaMeret()
+{
+    document.getElementById("tabla").innerHTML="";
+    const sor = document.getElementById("sorok").value;
+    const oszlop = document.getElementById("oszlopok").value;
+
+    
+    console.log(document.getElementById("tabla").children.length);
+
+    if(sor>document.getElementById("tabla").children.length)
+    {
+        for(let i=document.getElementById("tabla").children.length;i<sor;i++)
+        {
+            tempCella.addEventListener("dblclick",function(){
+                this.classList.toggle("kattintott")
+                this.appendChild(inputKeszit(""));
+                this.children[0].focus();
+
+
+            })
+            tempSor.appendChild(tempCella);
+        }
+        document.getElementById("tabla").appendChild(tempSor)
+
+    }
+
+    if(sor>document.getElementById("tabla").children.length)
+        {
+            while(sor<document.getElementById("tabla").children.length)
+            {
+                document.getElementById("tabla").lastChild.remove();
+            }
+        }  
+
+    if(oszlop>document.getElementById("tabla").children[0].children.length)
+    {
+        while(oszlop>document.getElementById("tabla").children[0].children.length)
+        {
+            
+        }
+    }   
+
+    
+/*  for(let i = 0; i<sor;i++)
+    {
+        let tempSor=document.createElement("tr");
+        for(let k = 0; k<oszlop;k++)
+        {
+            let tempCella=document.createElement("td");
+
+            tempCella.addEventListener("dblclick",function(){
+                //this.style.background="black";
+
+                this.classList.toggle("kattintott")
+                this.appendChild(inputKeszit(""));
+
+
+            })
+            tempSor.appendChild(tempCella);
+        }
+        document.getElementById("tabla").appendChild(tempSor);
+    }*/
+} 
+
+function inputKeszit(ertek)
+{
+    let input=document.createElement("input");
+    input.type="text";
+    input.placeholder="szöveg";
+    if(ertek!=="")
+    {
+        input.value=ertek;
+    }
+
+    
+
+
+    input.addEventListener("keypress", function(event) {
+  // If the user presses the "Enter" key on the keyboard
+    if (event.key === "Enter") {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Trigger the button element with a click
+    //document.getElementById("myBtn").click();
+
+    
+  }
+});
+
+
+
+
+
+
+
+    return input;
 }
 
 function kattintas()
