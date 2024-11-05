@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\lotto\\lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\lotto\\lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\lotto\\lotto\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|solutionrelative:lotto\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\lotto\\lotto\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99383B55-199A-4E72-B70C-6775510890D6}|lotto\\lotto.csproj|solutionrelative:lotto\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "lotto\\Window1.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\Window1.xaml.cs",
+              "RelativeToolTip": "lotto\\Window1.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:05:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\Window1.xaml",
+              "RelativeDocumentMoniker": "lotto\\Window1.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\Window1.xaml",
+              "RelativeToolTip": "lotto\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T08:04:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeToolTip": "lotto\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T08:04:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lotto\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:04:21.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<Window x:Class="LottoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lottó Sorsolás" Height="350" Width="400">
+    <Grid>
+        <Button Name="btnSorsolas" Content="Sorsolás" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0" Width="100" Height="30" Click="btnSorsolas_Click"/>
+        <TextBlock Name="txtLottoSzamok" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+    </Grid>
+</Window>
