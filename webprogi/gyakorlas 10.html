@@ -1,23 +1,44 @@
 <!DOCTYPE html>
 <html lang="hu">
 <head>
+<<<<<<< HEAD
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gyakorlás</title>
     
+=======
+    <title>Document</title>
+    <script src="spontan.js"></script>
+    <link rel="stylesheet" href="style.css">
+>>>>>>> d124c8c07d7c496e3fab658369862c035ee00b2b
 </head>
 <body onload="init()">
     
-    <script>
-        function init()
-{    
-    document.body.appendChild(sliderMaker("Oszlopok:","sorok",1,10));
-    document.body.appendChild(sliderMaker("Sorok:","oszlopok",1,10));
+<style>
+    table#tabla, table#tabla td{
+    border: 1px solid black;
+}
+
+table#tabla td{
+    width: 40px;
+    height: 40px;
+}
+.kattintott{
+    background-color: red;
+}
+</style>
+
+<script>
+    function init()
+{
+    document.body.appendChild(sliderMaker("Sorok: ","sorok", 1, 10));
+    document.body.appendChild(sliderMaker("Oszlopok","oszlopok", 1, 10));
     let tabla = document.createElement("table");
-    tabla.id= "tabla";
+    tabla.id="tabla";
     document.body.appendChild(tabla);
     tablaMeret();
 }
+<<<<<<< HEAD
 
 function tablaMeret_old()
 {
@@ -28,12 +49,21 @@ function tablaMeret_old()
     
     
     for(let i = 0; i<sor;i++)
+=======
+function tablaMeret()
+{
+    document.getElementById("tabla").innerHTML = "";
+    const oszlop = document.getElementById("oszlopok").value;
+    const sor = document.getElementById("sorok").value;
+    for(let i = 0; i < sor; i++)
+>>>>>>> d124c8c07d7c496e3fab658369862c035ee00b2b
     {
-        let tempSor=document.createElement("tr");
-        for(let k = 0; k<oszlop;k++)
+        let tempSor = document.createElement("tr");
+        for (let k = 0; k < oszlop; k++)
         {
-            let tempCella=document.createElement("td");
+            let tempCella = document.createElement("td");
 
+<<<<<<< HEAD
             tempCella.addEventListener("dblclick",function(){
                 //this.style.background="black";
 
@@ -42,12 +72,19 @@ function tablaMeret_old()
 
 
             })
+=======
+            tempCella.addEventListener("dblclick", function(){
+            this.classList.toggle("kattintott");
+            this.appendChild(inputKeszit(""))
+        })
+>>>>>>> d124c8c07d7c496e3fab658369862c035ee00b2b
             tempSor.appendChild(tempCella);
         }
         document.getElementById("tabla").appendChild(tempSor);
     }
 }
 
+<<<<<<< HEAD
 function tablaMeret()
 {
     document.getElementById("tabla").innerHTML="";
@@ -147,47 +184,59 @@ function inputKeszit(ertek)
 }
 
 function kattintas()
+=======
+function inputKeszit(ertek)
+>>>>>>> d124c8c07d7c496e3fab658369862c035ee00b2b
 {
-    
+    let input = document.createElement("input");
+    input.type = "text";
+    input.placeholder = "szoveg";
+    if(ertek !== "")
+    {
+        input.value = ertek;
+    }
+
+    input.addEventListener("keypress", function(event) {
+        if (event.key === "Enter") {
+          event.preventDefault();
+          
+
+          console.log(event)
+          console.log(this)
+          this.parentElement.innerHTML=this.value
+          this.classList.toggle("kattintott");
+        }
+      });
+
+    return input;
 }
 
-function sliderMaker(label,id,min, max)
+function kattintas()
 {
+
+
+}
+
+function sliderMaker(label, id, min, max)
+{
+    //<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
     let slider = document.createElement("input");
-    slider.setAttribute("type","range");
-    slider.setAttribute("min",min);
-    slider.setAttribute("max",max);
+    slider.setAttribute("type", "range");
+    slider.setAttribute("min", min);
+    slider.setAttribute("max", max);
     slider.id=id;
-    slider.addEventListener("input",tablaMeret)
+    slider.addEventListener("input", tablaMeret);
 
     let cimke = document.createElement("label");
     cimke.innerHTML=label;
     cimke.for=id;
 
-    let doboz=document.createElement("div");
-    doboz.appendChild(cimke)
-    doboz.appendChild(slider)
-
-
+    let doboz = document.createElement("div");
+    doboz.appendChild(cimke);
+    doboz.appendChild(slider);
     return doboz;
 }
-    </script>
+</script>
 
-
-    <style>
-        table#tabla, table#tabla td
-            {
-            border: 1px solid rebeccapurple;
-            }
-        table#tabla td{
-            width: 20px;
-            height: 20px;
-            }
-
-        .kattintott
-        {
-            background-color: black;
-        }
-    </style>
 </body>
 </html>
