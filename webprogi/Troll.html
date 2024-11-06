@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Troll</title>
+
+    <style>
+        #gomb
+        {
+            position: absolute;
+        }
+    </style>
+</head>
+<body onkeydown='if(event.key === "tab") nyomas()'>
+    <button id="gomb" onmouseover="nyomas()" >Nyomd meg! </button>
+
+    <script>
+        
+        function nyomas()
+        {
+            let button = document.getElementById('gomb');
+            let szelleseg = window.innerWidth;
+            let magassag = window.innerHeight;
+            button.style.left = Math.random() * (szelleseg - button.offsetHeight)+"px";
+            button.style.top = Math.random() * (magassag- button.offsetHeight)+ "px";
+        }
+
+    </script>
+    
+</body>
+</html>
