@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\gyakorlas 11.07\\gyakorlas 11.07\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|solutionrelative:gyakorlas 11.07\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\gyakorlas 11.07\\gyakorlas 11.07\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|solutionrelative:gyakorlas 11.07\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\gyakorlas 11.07\\gyakorlas 11.07\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|solutionrelative:gyakorlas 11.07\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\gyakorlas 11.07\\gyakorlas 11.07\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C7007BF-AB0A-490C-BC2C-86942B20C70C}|gyakorlas 11.07\\gyakorlas 11.07.csproj|solutionrelative:gyakorlas 11.07\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "gyakorlas 11.07\\Window1.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\Window1.xaml.cs",
+              "RelativeToolTip": "gyakorlas 11.07\\Window1.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:40:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\Window1.xaml",
+              "RelativeDocumentMoniker": "gyakorlas 11.07\\Window1.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\Window1.xaml",
+              "RelativeToolTip": "gyakorlas 11.07\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:40:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gyakorlas 11.07\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\MainWindow.xaml",
+              "RelativeToolTip": "gyakorlas 11.07\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:39:16.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gyakorlas 11.07\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\gyakorlas 11.07\\gyakorlas 11.07\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gyakorlas 11.07\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:39:13.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\bin\Debug\net8.0-windows\gyakorlas 11.07.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\bin\Debug\net8.0-windows\gyakorlas 11.07.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\bin\Debug\net8.0-windows\gyakorlas 11.07.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\bin\Debug\net8.0-windows\gyakorlas 11.07.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\bin\Debug\net8.0-windows\gyakorlas 11.07.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\Window1.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07_MarkupCompile.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07_MarkupCompile.lref
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\Window1.baml
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.g.resources
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\refint\gyakorlas 11.07.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\gyakorlas 11.07.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\gyakorlas 11.07\gyakorlas 11.07\obj\Debug\net8.0-windows\ref\gyakorlas 11.07.dll

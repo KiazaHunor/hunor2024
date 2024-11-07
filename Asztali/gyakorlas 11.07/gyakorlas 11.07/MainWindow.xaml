@@ -1,0 +1,22 @@
+﻿<Window x:Class="gyakorlas_11._07.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gyakorlas_11._07"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="206,46,0,0" VerticalAlignment="Top" Height="44" Width="96" Click="button_Click"/>
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="178,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy" Content="Button" HorizontalAlignment="Left" Margin="254,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy1" Content="Button" HorizontalAlignment="Left" Margin="339,179,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy2" Content="Button" HorizontalAlignment="Left" Margin="178,222,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy3" Content="Button" HorizontalAlignment="Left" Margin="254,222,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy4" Content="Button" HorizontalAlignment="Left" Margin="339,222,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy5" Content="Button" HorizontalAlignment="Left" Margin="178,264,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy6" Content="Button" HorizontalAlignment="Left" Margin="254,264,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1_Copy7" Content="Button" HorizontalAlignment="Left" Margin="339,264,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
