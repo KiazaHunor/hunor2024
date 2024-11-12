@@ -6,6 +6,41 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <script>
+        hivas = new XMLHttpRequest();
+
+        hivas.onload=function()
+        {
+            console.log(this.ResponseText);
+            const data =JSON.parse(this.responseText)
+            console.log(data);
+
+            let doboz =nevjegy(data.results[0]);
+            document.body.appendChild(doboz);
+        }
+
+    hivas.open("GET",'https://randomuser.me/api/');
+    hivas.send();
+
+        function nevjegy(adatok)
+        {
+
+            let tartaly=document.createElement("div");
+            let kep = document.createElement("img");
+            kep.src=adatok.picture.large;
+            tartaly.appendChild(kep);
+            let nev = document.createElement("h2");
+            nev.innerHTML=adatok.name.title+" "+adatok.name.first+" "+adatok.name.last;
+            tartaly.appendChild(nev);
+
+            let telefon = document.createElement("p");
+            telefon.innerHTML=adatok.phone;
+            tartaly.appendChild(telefon);
+
+
+            return tartaly
+        }
+        
+    </script>
 </body>
 </html>
