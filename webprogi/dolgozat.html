@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doga</title>
+</head>
+<body>
+    <div class="container"></div>
+    <!--<label for="elso">elso</label>
+    <input type="text" name="elso" id="elso"><br>-->
+    <button class="gombnyomas" type="button" onclick="nyomas()">+</button><br>
+
+    <div id="beker"></div>
+    <!--<button type="" onkeypress="nyomas()"></button> -->
+
+    <!--<input type="text" name="elso" id="elso" onkeypress="nyomas()"><br>--->
+    <script>
+       
+            //const ujsor = document.createElement("halo");
+            //ujsor.classList.add("sor");
+            //ujsor
+
+            function nyomas() {
+            const a = document.getElementById("beker");
+            const b = document.createElement("div");
+            const c = document.createElement("input");
+            const d = document.createElement("button");
+            c.setAttribute("type", "text");
+            c.setAttribute("placeholder", "");
+            d.setAttribute("törlés")
+            c.classList.add("input-field");
+            b.appendChild(c);
+            a.appendChild(b);
+
+
+            c.addEventListener("keydown", function(event) {
+                if (event.key === "Enter") { 
+                    
+                    const szoveg = document.createElement("div");
+                    szoveg.textContent = c.value;  
+                    b.innerHTML = '';  
+                    b.appendChild(szoveg);  
+
+                    showText(c.value);
+                    c.value = '';  
+                }
+            });
+
+            b.appendChild(c);   
+            a.appendChild(b);    
+
+        }
+        
+        document.getElementById("addButton").addEventListener("click", nyomas);
+        
+
+
+    </script>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+
+    .container {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .input-field {
+        width: 200px;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px auto;
+    }
+
+    .gombnyomas{
+        padding: 8px 20px;
+        background-color: rgb(14, 109, 172);
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+</style>
+</body>
+</html>

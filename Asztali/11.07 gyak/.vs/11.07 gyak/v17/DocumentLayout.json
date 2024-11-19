@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\11.07 gyak\\11.07 gyak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|solutionrelative:11.07 gyak\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\11.07 gyak\\11.07 gyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|solutionrelative:11.07 gyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\11.07 gyak\\11.07 gyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|solutionrelative:11.07 gyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\11.07 gyak\\11.07 gyak\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84558AC3-2AFB-4C98-8E70-5A84D5552216}|11.07 gyak\\11.07 gyak.csproj|solutionrelative:11.07 gyak\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "11.07 gyak\\Window1.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\Window1.xaml.cs",
+              "RelativeToolTip": "11.07 gyak\\Window1.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:31:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\Window1.xaml",
+              "RelativeDocumentMoniker": "11.07 gyak\\Window1.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\Window1.xaml",
+              "RelativeToolTip": "11.07 gyak\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T07:31:26.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "11.07 gyak\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\MainWindow.xaml",
+              "RelativeToolTip": "11.07 gyak\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T07:31:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "11.07 gyak\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\11.07 gyak\\11.07 gyak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "11.07 gyak\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvx0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:31:05.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

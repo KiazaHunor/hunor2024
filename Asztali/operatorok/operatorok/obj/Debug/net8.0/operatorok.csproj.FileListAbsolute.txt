@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\bin\Debug\net8.0\operatorok.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\bin\Debug\net8.0\operatorok.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\bin\Debug\net8.0\operatorok.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\bin\Debug\net8.0\operatorok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\bin\Debug\net8.0\operatorok.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\refint\operatorok.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\operatorok.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\operatorok\operatorok\obj\Debug\net8.0\ref\operatorok.dll
