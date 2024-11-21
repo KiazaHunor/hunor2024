@@ -16,6 +16,7 @@ namespace csorda
         static void Main(string[] args) 
         {
             Allat a1 = new Allat("Bimbó", 300, 2000);
+            Allat a2 = new Allat("Lajos", 400, 4000);
             Console.WriteLine(a1);
 
 
@@ -26,7 +27,17 @@ namespace csorda
 
             Csorda cs4 = cs2 + a1;
             Console.WriteLine(cs4.tagok);
+            cs4 = cs4 + a2;
             cs4.kiir();
+
+
+            cs4 = cs2 + a2;
+            cs2.kiir();
+
+            cs4 -= a1;
+
+
+            Console.ReadKey();
         }
     }   
     

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\csorda\\csorda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|solutionrelative:csorda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:csorda\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\csorda\\csorda\\csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|solutionrelative:csorda\\csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:csorda\\Csorda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\csorda\\csorda\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C9A3697-593C-4F16-9E37-007042E0B412}|csorda\\csorda.csproj|solutionrelative:csorda\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:csorda\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Csorda.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Csorda.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Csorda.cs",
               "RelativeDocumentMoniker": "csorda\\Csorda.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Csorda.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Csorda.cs",
               "RelativeToolTip": "csorda\\Csorda.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAD4vyEAAAAsAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwDMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T07:23:27.976Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "allat.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\allat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\allat.cs",
               "RelativeDocumentMoniker": "csorda\\allat.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\allat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\allat.cs",
               "RelativeToolTip": "csorda\\allat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T07:08:26.927Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Program.cs",
               "RelativeDocumentMoniker": "csorda\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\csorda\\csorda\\Program.cs",
               "RelativeToolTip": "csorda\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T11:05:38.497Z",
               "EditorCaption": ""

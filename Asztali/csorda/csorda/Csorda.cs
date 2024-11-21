@@ -23,10 +23,35 @@ namespace csorda
 
         public static Csorda operator +(Csorda cs1, Allat a1) 
         {
-             cs1.tagok.Add(a1);
-            return new Csorda(cs1);
+
+
+            List<Allat> temp = new List<Allat>(cs1.tagok);
+            if (!temp.tagok.Contains(a1)) 
+            {
+                cs1.tagok.Add(a1);
+            }
+
+            Csorda tempCsorda = Csorda();
+            tempCsorda.tagok = temp;
+             
+            return tempCsorda;
         }
 
+        public static Csorda operator -(Csorda cs1, Allat a1)
+        {
+
+
+            List<Allat> temp = new List<Allat>(cs1.tagok);
+            //if (!temp.tagok.Contains(a1))
+            {
+                cs1.tagok.Add(a1);
+            }
+            Csorda tempCsorda = Csorda();
+            tempCsorda.tagok = temp;
+
+            return tempCsorda;
+
+        }
         public void kiir() 
         {
             for (int i = 0; i < tagok.Count; i++) 
