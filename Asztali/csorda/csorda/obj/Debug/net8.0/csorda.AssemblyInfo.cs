@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csorda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd17628156217a4fec7d9b6314b4021faad8305")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc9242df3974263534de51367efd32ecfd54c3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("csorda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csorda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

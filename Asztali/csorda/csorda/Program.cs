@@ -11,11 +11,23 @@
 namespace csorda
 {
 
-        internal class allat
+     internal class Program 
+    {
+        static void Main(string[] args) 
         {
-            string nev = "tehen";
-            int suly = 220;
-            string ar = "232";
+            Allat a1 = new Allat("Bimbó", 300, 2000);
+            Console.WriteLine(a1);
+
+
+            Csorda cs1 = new Csorda();
+            Csorda cs2 = new Csorda(a1);
+            Csorda cs3 = new Csorda(cs2);
+            Console.WriteLine(cs3.tagok.Count);
+
+            Csorda cs4 = cs2 + a1;
+            Console.WriteLine(cs4.tagok);
+            cs4.kiir();
         }
+    }   
     
 }
