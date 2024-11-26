@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Generate</title>
+</head>
+
+<bod onload="init()">
+    Token:
+    v6y8y7kotj4guw38czkh0w92gflvui69jljxi8pj
+
+    Data:
+    https://api.json-generator.com/templates/YvgDRk9yHfDf/data
+    <div id="ide"></div>
+    <script>
+        //from get Data
+        let url = "https://api.json-generator.com/templates/YvgDRk9yHfDf/data"
+
+        // from new Token
+        let token = "v6y8y7kotj4guw38czkh0w92gflvui69jljxi8pj";
+        function init()
+        {
+            letoltes();
+        }
+
+        function letoltes()
+        {
+            let xhr = new XMLHttpRequest;
+
+
+            xhr.onload = function()
+            {
+                console.log(this.responseText);
+                document.getElementById("ide").innerHTML=this.responseText;
+                const adatok=JSON.pharse(this.responseText);
+                console.log(adatok)
+            }
+            xhr.open("GET",url + "?access_token=" + token);
+            xhr.send();
+        }
+    </script>
+</body>
+
+</html>
