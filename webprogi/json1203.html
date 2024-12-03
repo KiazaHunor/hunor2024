@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="init()">
+    <script>
+        //"https://randomuser.me/api/portraits/men/8.jpg"
+        function init()
+        {
+            let xhr=new XMLHttpRequest();
+            xhr.onload= function()
+            {
+                let adatok=(JSON.parse(this.responseText));
+                console.log(adatok);
+                //console.log(adatok.results[0].picture.large)
+                let kepUrl = adatok.results[0].picture.large
+                let kep=document.createElement("img");
+
+                kep.src=kepUrl;
+                document.body.appendChild(kep);
+            }
+            xhr.open("get","https://randomuser.me/api/");
+            xhr.send();
+
+
+
+            fetch("https://randomuser.me/api/")
+            .then(x=>{console.log(x);x.json()})
+            .then(adatok=>{
+                //let adatok=JSON.parse(y);
+                //console.log(adatok);
+                //console.log(adatok.results[0].picture.large)
+                let kepUrl = adatok.results[0].picture.large
+                let kep=document.createElement("img");
+                kep.src=kepUrl;
+                document.body.appendChild(kep);});
+        }
+
+    </script>
+</body>
+</html>
