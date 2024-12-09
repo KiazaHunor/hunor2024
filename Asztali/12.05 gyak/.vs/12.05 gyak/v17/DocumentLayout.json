@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\12.05 gyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28D644-A0EA-4ACB-8D23-6AA3A4A76763}|12.05 gyak\\12.05 gyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horv\u00E1th hunor\\hunor2024\\asztali\\12.05 gyak\\12.05 gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C28D644-A0EA-4ACB-8D23-6AA3A4A76763}|12.05 gyak\\12.05 gyak.csproj|solutionrelative:12.05 gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\12.05 gyak\\12.05 gyak\\Program.cs",
+              "RelativeDocumentMoniker": "12.05 gyak\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\12.05 gyak\\12.05 gyak\\Program.cs",
+              "RelativeToolTip": "12.05 gyak\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADgvygAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:15:55.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

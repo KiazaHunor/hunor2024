@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\bin\Debug\net8.0\dolgozat_11.28.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\bin\Debug\net8.0\dolgozat_11.28.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\bin\Debug\net8.0\dolgozat_11.28.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\bin\Debug\net8.0\dolgozat_11.28.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\bin\Debug\net8.0\dolgozat_11.28.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\refint\dolgozat_11.28.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\dolgozat_11.28.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\dolgozat_11.28\dolgozat_11.28\obj\Debug\net8.0\ref\dolgozat_11.28.dll

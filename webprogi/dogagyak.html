@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doga</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            display: block;
+            margin-top: 20px;
+        }
+
+        .input-field {
+            width: 200px;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 10px auto;
+            box-sizing: border-box;  
+        }
+
+        .gombnyomas {
+            padding: 8px 20px;
+            background-color: rgb(14, 109, 172);
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .gombnyomas:hover {
+            background-color: rgb(10, 84, 129); 
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: rgb(109, 133, 109);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="gombnyomas" type="button" id="hozzaad">+</button>
+    </div>
+
+    <div id="beker"></div>
+
+    <div id="result"></div> 
+
+    <script>
+        
+        function nyomas() {
+            const a = document.getElementById("beker");  
+            const b = document.createElement("div");    
+            const c = document.createElement("input"); 
+            const d = document.createElement("button");
+            c.setAttribute("type", "text");              
+            c.setAttribute("placeholder", "Adj meg valamit"); 
+            c.classList.add("input-field");             
+            
+            c.addEventListener("keydown", function(event) {
+                if (event.key === "Enter") {  
+                   
+                    const szoveg = document.createElement("div");
+                    szoveg.textContent = c.value;                    
+                    b.innerHTML = '';  
+                    b.appendChild(szoveg); 
+                    showText(c.value);
+                    c.value = '';  
+                }
+            });
+
+            b.appendChild(c);    
+            a.appendChild(b);
+        }
+
+        
+
+        
+        document.getElementById("hozzaad").addEventListener("click", nyomas);
+    </script>
+</body>
+</html>

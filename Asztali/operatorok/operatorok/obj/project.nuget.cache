@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6R4KD8HpLZU=",
   "success": true,
   "projectFilePath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
+=======
+  "dgSpecHash": "mDjFA1ig+zA=",
+  "success": true,
+  "projectFilePath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
   "expectedPackageFiles": [],
   "logs": []
 }

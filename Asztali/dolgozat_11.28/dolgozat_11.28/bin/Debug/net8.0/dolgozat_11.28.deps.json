@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dolgozat_11.28/1.0.0": {
+        "runtime": {
+          "dolgozat_11.28.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dolgozat_11.28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Generate</title>
+</head>
+
+<body onload="init()">
+    
+    <!--Token:v6y8y7kotj4guw38czkh0w92gflvui69jljxi8pj
+    Data:
+    https://api.json-generator.com/templates/YvgDRk9yHfDf/data -->
+    <div id="ide"></div>
+    <script>
+        //from get Data
+        let url = "https://api.json-generator.com/templates/YvgDRk9yHfDf/data"
+
+        // from new Token
+        let token = "v6y8y7kotj4guw38czkh0w92gflvui69jljxi8pj";
+        function init()
+        {
+            letoltes();
+        }
+
+        function letoltes()
+        {
+            let xhr = new XMLHttpRequest();
+
+
+            xhr.onload = function()
+            {
+                console.log(this.responseText);
+                //document.getElementById("ide").innerHTML=this.responseText;
+
+                const adatok=JSON.parse(this.responseText);
+                console.log(adatok);
+
+                kartya(adatok[0])
+
+
+            }
+            xhr.open("GET",url + "?access_token=" + token);
+            xhr.send();
+
+        }
+        function kartya(adatLista)
+        {
+            console.log(adatLista);
+            const keret=document.createElement("div");
+            const nevKeret=document.createElement("div");
+            const nevSpam=document.createElement("span");
+            nevSpam.innerHTML="Név:";
+            const nevAdat=document.createElement("span");
+            nevAdat.innerHTML=adatLista.profile.name;
+            nevKeret.appendChild(nevSpam);
+            nevKeret.appendChild(nevAdat);
+            keret.appendChild(nevKeret);
+
+            const mail=document.createElement("span");
+            mail.innerHTML="e-mail:"
+            const emailspam=document.createElement("div");
+            emailspam.innerHTML=adatLista.profile.about;
+            keret.appendChild(emailspam);
+
+
+
+
+
+
+
+
+
+            document.body.appendChild(keret);
+
+        }
+
+    </script>
+    <style>
+        
+    </style>
+</body>
+
+</html>

@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operatorok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47cea4d195817aba338baf03baa5cfee01164a79")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd17628156217a4fec7d9b6314b4021faad8305")]
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
 [assembly: System.Reflection.AssemblyProductAttribute("operatorok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operatorok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
