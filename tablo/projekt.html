@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Animation</title>
+    <style>
+        body {
+            background-image: url('hatter\ blur.jpg'); /* Háttérkép beállítása */
+            background-repeat: no-repeat;         /* Nincs ismétlés */
+            background-attachment: fixed;         /* A háttérkép rögzítése */
+            background-size: cover;              /* A háttér lefedi az egész képernyőt */
+            overflow: hidden;                     /* Nem jeleníti meg a kilógó elemeket */
+            margin: 0;                            /* A margót eltávolítjuk */
+            height: 100vh;                        /* Az egész ablak magassága */
+        }
+
+        .image {
+            width: 300px;
+            height: 300px;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Képek és animáció -->
+<script>
+    // Képek tömbje
+    const images = [
+        "andi.jpg","ice.jpg","luckey.jpg","rolix.jpg","sajt.jpg","uborka.jpg","zsdav.jpg"
+    ];
+
+    // Animációs funkció
+    function animateImages() {
+        // Iterálunk a képek tömbjén
+        images.forEach((src, index) => {
+            // Létrehozunk egy képelemet
+            const img = document.createElement("img");
+            img.src = src;
+            img.alt = `Image ${index + 1}`;
+            img.className = "image";
+
+            // Kezdeti pozíció beállítása (képernyőn kívül balra)
+            img.style.left = "-300px";
+            img.style.top = "100px";
+
+            // Adjuk hozzá a body-hoz
+            document.body.appendChild(img);
+
+            // Késleltetés a képek megjelenítésére
+            setTimeout(() => {
+                let pos = -300; // Kezdő pozíció
+                const id = setInterval(() => {
+                    if (pos >= 1360) {
+                        clearInterval(id); // Ha elérte a célt, leállítjuk az animációt
+                    } else {
+                        pos++; // Pozíció növelése
+                        img.style.left = pos + "px";
+                        //img.style.left = pos + "px";
+                    }
+                }, 10);
+            }, index * 5000); // 2 másodperces késleltetés az egyes képek között
+        });
+    }
+
+    // Animáció indítása 2 mp után
+    setTimeout(animateImages, 2000);
+</script>
+
+</body>
+</html>
