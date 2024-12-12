@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\ipKereses.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\ipKereses.csproj",
       "projectName": "ipKereses",
-      "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\ipKereses.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\ipKereses.csproj",
       "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\ipKereses\\ipKereses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",
