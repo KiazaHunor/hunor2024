@@ -1,0 +1,32 @@
+using System.Text.RegularExpressions;
+
+string text = File.ReadAllText("szoveg.txt");
+
+Regex minta = new Regex(@"https://www\.\S+\.\S+");
+
+var talalat = minta.Matches(text);
+Console.WriteLine(talalat.Count);
+foreach (Match elem in talalat) 
+{
+    //Console.WriteLine(elem);
+}
+
+Dictionary<string,int> szamlalo = new Dictionary<string,int>();
+
+foreach (Match elem in talalat) 
+{
+    string url = elem.Value;
+    if (szamlalo.ContainsKey(url))
+    {
+        szamlalo[url]++;
+    }
+    else 
+    {
+        szamlalo[url] = 1;
+    }
+}
+
+foreach (var eredmeny in szamlalo) 
+{
+    Console.WriteLine($"{eredmeny.Key}: {eredmeny.Value} ");
+}
