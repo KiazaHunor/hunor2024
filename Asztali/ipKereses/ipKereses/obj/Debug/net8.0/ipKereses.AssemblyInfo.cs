@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ipKereses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c389e22cbbfb464ec57333561f59e41d9e7a385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22aaf3b950016cc04140416581939fefa5d9f729")]
 [assembly: System.Reflection.AssemblyProductAttribute("ipKereses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ipKereses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
