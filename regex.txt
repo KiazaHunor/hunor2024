@@ -67,3 +67,6 @@ foreach (var eredmeny in szamlalo)
 {
     Console.WriteLine($"{eredmeny.Key}: {eredmeny.Value} ");
 }
+
+
+// (@"""(\w+) (\S+  \S+)"" (\d+ \d+) ");
