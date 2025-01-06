@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+body
+{
+  
+    background-image: url(hatter\ blur.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    overflow: hidden;
+    margin: 0;
+
+    
+}
+ 
+
+#messi {
+  width: 500;
+  height: 500px;
+  position: absolute;
+  
+}
+    </style>
+</head>
+<body>
+    
+
+    
+
+    <script>
+        const kepek = ["andi.jpg","ice.jpg","luckey.jpg","rolix.jpg","sajt.jpg","uborka.jpg","zsdav.jpg"]
+
+
+        function animaciok()
+        {
+            kepek.forEach((src, index) => {
+                const img =document.createElement("img");
+                img.src=src;
+                img.alt= `messi ${index+1}`;
+                img.className="messi;"
+
+                img.style.left = "-175px";
+                img.style.top = "100px";
+
+                document.body.appendChild(img);
+            
+
+                setTimeout(()=>
+                {
+                    let pos = -175;
+                    const id = setInterval(() => 
+                    {
+                        if(pos>=1360)
+                        {
+                            clearInterval(id);
+                        }
+                        else
+                        {
+                            pos++;
+                            img.style.left = pos + 'px'; 
+                            img.style.left = pos + 'px'; 
+                        }
+                    },10);
+                },index * 2000);
+            });
+        }
+        setTimeout(animaciok, 2000);
+
+        //function setInitialPosition() {
+        //var elem = document.getElementById("messi");
+        //elem.style.left = "-175px";  Képernyő bal szélén kívül
+        //elem.style.top = "100px";     Függőlegesen a container tetejénél
+    
+
+
+
+/*
+        var id = null;
+function myMove() {
+  var elem = document.getElementById("messi");   
+  var pos = -175;
+  clearInterval(id);
+  id = setInterval(frame, 0,5);
+  function frame() {
+    if (pos == 1360) {
+      clearInterval(id);
+    } else {
+      pos++; 
+      elem.style.left = pos + 'px'; 
+      elem.style.left = pos + 'px'; 
+    }
+  }
+}
+  */
+//setInitialPosition();
+
+
+/*<div class="eg"><p> 
+        </p>
+        
+        <div id ="myContainer">
+        <img  id="messi" src="igen.png" alt="Kep">
+        </div>
+    </div>
+*/
+    </script>
+</body>
+</html>

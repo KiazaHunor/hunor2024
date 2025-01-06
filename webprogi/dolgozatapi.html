@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="halo"></div>
+    
+    <ul></ul>
+    <script>
+        fetch('https://fakestoreapi.com/products')
+            .then(res=>{return res.json();})
+
+            .then(adat =>{console.log(adat[3])
+
+
+                for (let i = 0; i < 20; i++) 
+                {
+                let ez=document.createElement("div")
+                ez.innerHTML=adat[i].adat
+
+                let az=document.createElement("div")
+                az.innerHTML=adat[i].description
+
+                let amaz=document.createElement("img")
+                amaz.setAttribute("src",adat[i].image)
+                amaz.setAttribute("width", "300px");
+                amaz.setAttribute("height", "220px");
+                amaz.addEventListener("click",function(){
+                    console.log("fdsf")
+                })
+
+
+                document.body.appendChild(ez)
+
+                document.body.appendChild(az)
+
+                document.body.appendChild(amaz)
+               }
+            })
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\bin\Debug\net8.0\keresesregex.exe
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\bin\Debug\net8.0\keresesregex.deps.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\bin\Debug\net8.0\keresesregex.runtimeconfig.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\bin\Debug\net8.0\keresesregex.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\bin\Debug\net8.0\keresesregex.pdb
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.AssemblyInfo.cs
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.sourcelink.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\refint\keresesregex.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.pdb
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\keresesregex.genruntimeconfig.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\keresesregex\keresesregex\obj\Debug\net8.0\ref\keresesregex.dll
