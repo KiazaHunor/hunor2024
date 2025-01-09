@@ -1,0 +1,37 @@
+Számoljuk meg egy legfeljebb 40 karakteres szöveg magánhangzóit!
+Program:
+Be: SZÖVEG
+MAGÁN, INDEX:=0
+Ciklus amíg INDEX<Hossz(SZÖVEG)
+Ha SZÖVEG[INDEX] Є {magánhangzók} akkor MAGÁN:=MAGÁN+1
+INDEX:=INDEX+1
+Ciklus vége
+Ki: MAGÁN
+Program vége
+A programban 2 feltétel kiértékelés szerepel. A programon átvezető tesztutak:
+A. A ciklusfeltétel eleve hamis, a ciklusba nem lépünk be.
+B. A ciklusfeltétel először igaz, az elágazásfeltétel igaz, utána a ciklusfeltétel hamissá válik.
+C. A ciklusfeltétel először igaz, az elágazásfeltétel hamis, utána a ciklusfeltétel hamissá válik.
+A 3 útból elegendő B-t és C-t választani, A mindkettőnek része.
+Az előfeltétel: 0<=Hossz(SZÖVEG)<=40.
+Mindkét útnál el kell jutni először a ciklusig, ezért a tesztpredikátum:
+B-C. 0<=Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0.
+A ciklusfeltételnek először igaznak kell lennie:
+B-C. 0<=Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0 és INDEX<Hossz(SZÖVEG).
+Ez lerövidítve:
+B-C. 0<Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0.
+Az elágazásnál a két tesztút különválik:
+B. 0<Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0 és SZÖVEG[INDEX] magánhangzó.
+C. 0<Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0 és SZÖVEG[INDEX] nem magánhangzó.
+B tesztútnál végrehajtjuk az elágazásban szereplő növelést, C-nél nem, utána:
+B. 0<Hossz(SZÖVEG)<=40 és MAGÁN=1 és INDEX=0 és SZÖVEG[0] magánhangzó.
+C. 0<Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=0 és SZÖVEG[0] nem magánhangzó.
+Az INDEX növelése után a ciklusfeltételnek már nem szabad teljesülnie:
+B. 0<Hossz(SZÖVEG)<=40 és MAGÁN=1 és INDEX=1 és SZÖVEG[0] magánhangzó és INDEX>=Hossz(SZÖVEG).
+C. 0<Hossz(SZÖVEG)<=40 és MAGÁN=0 és INDEX=1 és SZÖVEG[0] nem magánhangzó és INDEX>=Hossz(SZÖVEG).
+Ebből a bemenetben nem szereplő változók elhagyásával kapjuk a végleges tesztpredikátumokat:
+B. Hossz(SZÖVEG)=1 és SZÖVEG[0] magánhangzó.
+C. Hossz(SZÖVEG)=1 és SZÖVEG[0] nem magánhangzó.
+Tesztesetek meghatározása:
+B. SZÖVEG=”a”
+C. SZÖVEG=”b”

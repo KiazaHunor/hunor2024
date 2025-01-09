@@ -1,0 +1,42 @@
+A program elemzése
+A program bemenetei:
+N: A tömb mérete (N>0).
+AˊT: Az N-elemű tömb (AˊT[1],AˊT[2],…,AˊT[N]).
+Kimenet:
+DB: A tömb azon elemeinek száma, amelyek nagyobbak mint 4.5.
+Tesztutak
+A program két fő feltételértékelést tartalmaz:
+A ciklus feltétele: I≤N.
+Az elágazás feltétele: AˊT[I]>4.5.
+Az alábbi tesztutakat az alábbi forgatókönyvek szerint határozzuk meg:
+A: A ciklusfeltétel már kezdetben hamis (N=0).
+B: A ciklusfeltétel igaz, és az elágazás feltétele igaz.
+C: A ciklusfeltétel igaz, de az elágazás feltétele hamis.
+A B és C tesztutak vizsgálata önmagában lefedi a program futásának logikáját, mivel az A tesztút része mindkettőnek.
+Tesztpredikátumok meghatározása
+Az előfeltétel a program elején:
+1≤N eˊs DB=0 eˊs I=1.
+1. Tesztút: B
+A ciklusba belépünk, és az elágazás feltétele igaz:
+AˊT[I]>4.5: Ekkor DB értéke növekszik.
+A ciklus véget ér.
+Tesztpredikátum:
+N=1 eˊs AˊT[1]>4.5.
+Tesztbemenet:
+N=1, AˊT=[5].
+2. Tesztút: C
+A ciklusba belépünk, de az elágazás feltétele hamis:
+AˊT[I]≤4.5: Ekkor DB értéke nem változik.
+A ciklus véget ér.
+Tesztpredikátum:
+N=1 eˊs AˊT[1]≤4.5.
+Tesztbemenet:
+N=1, AˊT=[4].
+Tesztesetek
+**Tesztút
+Tesztút B
+Bemenet: N=1, AˊT=[5]
+Elvárt eredmény: DB=1
+Tesztút C
+Bemenet: N=1, AˊT=[4]
+Elvárt eredmény: DB=0ű
