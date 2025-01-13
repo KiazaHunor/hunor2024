@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\bin\Debug\net8.0\belepteto.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\bin\Debug\net8.0\belepteto.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\bin\Debug\net8.0\belepteto.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\bin\Debug\net8.0\belepteto.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\bin\Debug\net8.0\belepteto.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\refint\belepteto.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\belepteto.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\belepteto\belepteto\obj\Debug\net8.0\ref\belepteto.dll

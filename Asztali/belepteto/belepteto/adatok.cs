@@ -14,15 +14,14 @@ namespace belepteto
         public int esemeny;
         public int ora;
         public int perc;
-
-        public adatok(string sor) 
+        public adatok(string sor)
         {
             string[] vag = sor.Split(" ");
             kod = vag[0];
             ido = vag[1];
             esemeny = Convert.ToInt32(vag[2]);
 
-            vag=ido.Split(":");
+            vag = ido.Split(":");
             ora = Convert.ToInt32(vag[0]);
             perc = Convert.ToInt32(vag[1]);
         }
