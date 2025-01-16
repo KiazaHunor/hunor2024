@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autószerelő Műhely</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: wheat;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            /*box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);*/
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #970000;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        input, textarea {
+            margin-top: 5px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid black;
+            border-radius: 4px;
+        }
+
+        textarea {
+            resize: vertical;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 10px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9f7ef;
+            border: 1px solid #d4edda;
+            border-radius: 4px;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Autószerelő Műhely</h1>
+        <form id="serviceForm">
+            <label for="clientName">Ügyfél neve:</label>
+            <input type="text" id="clientName" name="clientName" required>
+
+            <label for="phoneNumber">Telefonszám:</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" required pattern="\+?[0-9]{10,15}" placeholder="+36123456789">
+
+            <label for="description">Hiba/kár leírása:</label>
+            <textarea id="description" name="description" rows="4" required></textarea>
+
+            <label for="deadline">Határidő:</label>
+            <input type="date" id="deadline" name="deadline" required>
+
+            <label for="minCost">Minimális költség (Ft):</label>
+            <input type="number" id="minCost" name="minCost" required>
+
+            <label for="maxCost">Maximális költség (Ft):</label>
+            <input type="number" id="maxCost" name="maxCost" required>
+
+            <button type="button" onclick="submitForm()">Mentés</button>
+        </form>
+
+        <div id="result" class="result" style="display: none;"></div>
+    </div>
+
+    <script>
+        function submitForm() {
+            const clientName = document.getElementById('clientName').value;
+            const phoneNumber = document.getElementById('phoneNumber').value;
+            const description = document.getElementById('description').value;
+            const deadline = document.getElementById('deadline').value;
+            const minCost = document.getElementById('minCost').value;
+            const maxCost = document.getElementById('maxCost').value;
+
+            if (parseInt(minCost) > parseInt(maxCost)) {
+                alert('A minimális költség nem lehet nagyobb, mint a maximális költség!');
+                return;
+            }
+
+            const resultDiv = document.getElementById('result');
+            resultDiv.style.display = 'block';
+            resultDiv.innerHTML = `
+                <h3>Mentett adatok:</h3>
+                <p><strong>Ügyfél neve:</strong> ${clientName}</p>
+                <p><strong>Telefonszám:</strong> ${phoneNumber}</p>
+                <p><strong>Hiba/kár leírása:</strong> ${description}</p>
+                <p><strong>Határidő:</strong> ${deadline}</p>
+                <p><strong>Minimális költség:</strong> ${minCost} Ft</p>
+                <p><strong>Maximális költség:</strong> ${maxCost} Ft</p>
+            `;
+
+            document.getElementById('serviceForm').reset();
+        }
+    </script>
+</body>
+</html>
