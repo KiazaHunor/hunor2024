@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\bin\Debug\net8.0\parkerdo.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\bin\Debug\net8.0\parkerdo.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\bin\Debug\net8.0\parkerdo.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\bin\Debug\net8.0\parkerdo.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\bin\Debug\net8.0\parkerdo.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\refint\parkerdo.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\parkerdo.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\parkerdo\parkerdo\obj\Debug\net8.0\ref\parkerdo.dll
