@@ -11,6 +11,7 @@ namespace parkerdo
         public int kezd;
         public int veg;
         public string szin;
+        public int sorszam;
 
         public Adatok(string sor) 
         {
@@ -18,6 +19,11 @@ namespace parkerdo
             kezd=int.Parse(vag[0]);
             veg=int.Parse(vag[1]);
             szin=vag[2];
+        }
+
+        public bool kapuBentVan 
+        {
+            get { return kezd > veg; }
         }
     }
 }
