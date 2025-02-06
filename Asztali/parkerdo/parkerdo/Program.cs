@@ -47,3 +47,31 @@ for (int i = 0; i < viragok.Count; i++)
 
 // 4. feladat
 Console.WriteLine("4. feladat \n Adja meg az ágyás sorszámát:");
+int be =int.Parse(Console.ReadLine());
+
+int darab = 0;
+string szin = "";
+HashSet<string> szinek = new HashSet<string>();
+for (int i = 0; i < viragok.Count; i++) 
+{
+    if (viragok[i].BenneVanEz(be))
+    {
+        darab++;
+        if (szin == "") 
+        {
+            szin = viragok[i].szin;
+        }
+        szinek.Add(szin);
+        
+    }
+    Console.WriteLine("A felajánlások száma {0}", darab);
+}
+if (darab == 0) 
+{
+    Console.WriteLine("Ezt az ágyást nem ültetik be");
+}
+else
+{
+    Console.WriteLine("Viragagyas csak ha az első ültet", szin);
+    Console.WriteLine("A virágágyás színei: {0}", String.Join(", ", szinek));
+}

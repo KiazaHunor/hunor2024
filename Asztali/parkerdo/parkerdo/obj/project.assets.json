@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\parkerdo.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\parkerdo.csproj",
       "projectName": "parkerdo",
-      "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\parkerdo.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\parkerdo.csproj",
       "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\parkerdo\\parkerdo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",

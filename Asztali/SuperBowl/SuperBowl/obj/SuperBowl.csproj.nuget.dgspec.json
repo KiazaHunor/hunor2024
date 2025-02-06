@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj": {}
+    "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj": {
+    "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj",
+        "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj",
         "projectName": "SuperBowl",
-        "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj",
+        "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\SuperBowl.csproj",
         "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\obj\\",
+        "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\SuperBowl\\SuperBowl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",

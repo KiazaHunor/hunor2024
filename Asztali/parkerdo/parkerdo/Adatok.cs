@@ -25,5 +25,10 @@ namespace parkerdo
         {
             get { return kezd > veg; }
         }
+
+        public bool BenneVanEz(int sorszam) 
+        {
+            return (kezd < sorszam && sorszam <= veg) || (kapuBentVan && (kezd <= sorszam || sorszam <= veg));
+        }
     }
 }
