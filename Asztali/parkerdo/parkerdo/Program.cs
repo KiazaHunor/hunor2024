@@ -16,7 +16,7 @@ for (int i = 1; i < sorok.Length; i++)
 viragok = sorok.Skip(1).Select(sor => new Adatok(sor)).ToList();
 
 
-for (int i = 0; i < sorok.Length; i++) 
+for (int i = 0; i < viragok.Count; i++) 
 {
     viragok[i].sorszam = i + 1;
 }
@@ -74,4 +74,30 @@ else
 {
     Console.WriteLine("Viragagyas csak ha az első ültet", szin);
     Console.WriteLine("A virágágyás színei: {0}", String.Join(", ", szinek));
+}
+
+List<Adatok> szurt = viragok.Where((elem) => elem.BenneVanEz(be)).ToList();
+Console.WriteLine("a felajánlók száma: {0}",szurt.Count);
+
+if (szurt.Count==0)
+{
+    Console.WriteLine("Ezt az ágyást nem ültetik be");
+}
+else
+{
+    Console.WriteLine("Viragagyas csak ha az első ültet : {0}",szurt.First().szin);
+    Console.WriteLine("A virágágyás színei: {0}", String.Join(" ",szurt.Select(elem => elem.szin).Distinct()));
+}
+
+
+List<Adatok>[] agyasok2 =new List<Adatok>[agyasDB+1];
+for (int i = 1; i < agyasDB + 1; i++) 
+{
+    for (int k = 0; k < viragok.Count; k++) 
+    {
+        if (viragok[k].BenneVanEz(i)) 
+        {
+            agyasok2[i].Add(viragok[k]);
+        }
+    }
 }

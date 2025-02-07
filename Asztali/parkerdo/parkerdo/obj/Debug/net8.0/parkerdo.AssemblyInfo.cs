@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parkerdo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b8e8db49b72ec8e2d957efa9b97bf9d46b7072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b84da22a087fb6edf4ad9cb80daf7a3c650caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("parkerdo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parkerdo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
