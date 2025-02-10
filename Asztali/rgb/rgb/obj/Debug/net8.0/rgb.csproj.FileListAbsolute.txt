@@ -1,0 +1,5 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.sourcelink.json
