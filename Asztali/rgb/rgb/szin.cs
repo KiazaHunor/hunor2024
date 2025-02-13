@@ -22,5 +22,14 @@ namespace rgb
         {
             return $"RGB{r},{g},{b}";
         }
+
+        public bool vilagos() 
+        {
+            return r+g+b>600;
+        }
+        public int osszeg() 
+        {
+            return r+g+b;
+        }
     }
 }

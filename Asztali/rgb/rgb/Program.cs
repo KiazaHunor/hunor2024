@@ -1,6 +1,6 @@
 ﻿using rgb;
 
-Console.WriteLine("buzi");
+//Console.WriteLine("buzi");
 
 List<Pixel> pontok = new List<Pixel>();
 StreamReader olvas = new StreamReader("kep.txt");
@@ -28,11 +28,20 @@ olvas.Close();
 
 Console.WriteLine("2.feladat");
 Console.WriteLine("Kérem egy képpont adatait");
-Console.WriteLine("Sor:");
+Console.Write("Sor:");
 int sor = int.Parse(Console.ReadLine());
-Console.WriteLine("Oszlop:");
+Console.Write("Oszlop:");
 int oszlop = int.Parse(Console.ReadLine());
 
-var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor).ToList()[0];
+var talalat = pontok.Where(pont => pont.x == oszlop && pont.y == sor).ToList().First();
 
-Console.WriteLine("A képpont színe {0}",talalat);
+Console.WriteLine("A képpont színe ({0})",talalat.rgb);
+
+
+var vilagosok = pontok.Where(pont => pont.rgb.vilagos()).ToList();
+int vilagosok2 = pontok.Where(pont => pont.rgb.vilagos()).ToList().Count;
+
+Console.WriteLine("3. feladat: \r\n A világos képpontok száma: {0}",vilagosok.Count);
+
+int minSzin=pontok.Min(pont => pont.rgb.osszeg());
+Console.WriteLine(minSzin);
