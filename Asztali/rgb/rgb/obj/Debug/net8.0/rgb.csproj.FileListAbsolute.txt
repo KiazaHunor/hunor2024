@@ -3,3 +3,13 @@ D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.
 D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.AssemblyInfo.cs
 D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.csproj.CoreCompileInputs.cache
 D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\bin\Debug\net8.0\rgb.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\bin\Debug\net8.0\rgb.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\bin\Debug\net8.0\rgb.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\bin\Debug\net8.0\rgb.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\bin\Debug\net8.0\rgb.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\refint\rgb.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\rgb.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rgb\rgb\obj\Debug\net8.0\ref\rgb.dll
