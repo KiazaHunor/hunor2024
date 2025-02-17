@@ -44,4 +44,18 @@ int vilagosok2 = pontok.Where(pont => pont.rgb.vilagos()).ToList().Count;
 Console.WriteLine("3. feladat: \r\n A világos képpontok száma: {0}",vilagosok.Count);
 
 int minSzin=pontok.Min(pont => pont.rgb.osszeg());
-Console.WriteLine(minSzin);
+Console.WriteLine("4.feladat: a legsötétebb szín {0}",minSzin);
+
+List<string> sotetek = pontok //összes képpont
+                       .Where(pont => pont.rgb.osszeg() == minSzin) //legsötétebb képpontok
+                       .Select(pont => pont.rgb.ToString()) //csak a színek legyenek
+                       .ToList(); //legyen lista a halmazból
+
+Console.WriteLine("A legsötétebb pixelek színe {0}");
+Console.WriteLine(String.Join("\n",sotetek));
+
+//linkkel az aktualis elem rgb tulajdonsaganak a B értéke és a következő elem mezőjének B komponense között  a különbség nagyobb e mint az elteres parameter.
+static bool hatar(int sor,int elteres) 
+{
+    return true;
+}

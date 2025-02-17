@@ -20,7 +20,7 @@ namespace rgb
         }
         public override string ToString()
         {
-            return $"RGB{r},{g},{b}";
+            return $"RGB({r},{g},{b})";
         }
 
         public bool vilagos() 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\rgb\\rgb\\rgb.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\rgb\\rgb\\rgb.csproj",
       "projectName": "rgb",
-      "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\rgb\\rgb\\rgb.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\rgb\\rgb\\rgb.csproj",
       "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\rgb\\rgb\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\rgb\\rgb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",
