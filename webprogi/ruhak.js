@@ -10,20 +10,31 @@ $.ajax(
             data.forEach(product => 
                 {
                     console.log(product)
-                    let kartya =termekKartya(product.title,product.image,product.description);
+                    let kartya =termekKartya(product.id,product.title,product.image,product.description);
                     $("#termekLista").append(kartya);
                 }
-                
-                
             );
         }
     });
 
-    function termekKartya(nev,kepurl,leiras)
+    function termekKartya(id,nev,kepurl,leiras,)
     {
               let keret =jQuery("<div>");
               keret.prop("class","card");
               keret.addClass("col-3")
+              keret.on("click",function(){
+                alert("buzi");
+                togglePopup();
+                $.ajax(
+                    {
+                        url:"https://fakestoreapi.com/products/"+id,
+                        dataType:'json',
+                        
+                        
+                    });
+
+
+              });
 
               let kep=jQuery("<img>");
               kep.prop("src",kepurl);
@@ -48,6 +59,14 @@ $.ajax(
               
               return keret;
     }
+    // Function to show and hide the popup
+    function togglePopup() {
+        $(".content").toggle();
+    }
+
+
+
+    
 /*<div class="card" style="width: 18rem;">
 <img src="..." class="card-img-top" alt="...">
 <div class="card-body">
