@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\bin\Debug\net8.0\proba.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\bin\Debug\net8.0\proba.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\bin\Debug\net8.0\proba.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\bin\Debug\net8.0\proba.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\bin\Debug\net8.0\proba.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\refint\proba.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\proba.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\proba\proba\obj\Debug\net8.0\ref\proba.dll

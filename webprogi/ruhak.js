@@ -23,13 +23,60 @@ $.ajax(
               keret.prop("class","card");
               keret.addClass("col-3")
               keret.on("click",function(){
-                alert("buzi");
-                togglePopup();
+                //alert("buzi");
+                
                 $.ajax(
                     {
                         url:"https://fakestoreapi.com/products/"+id,
                         dataType:'json',
+                        success: function(data)
+                        {
+                            console.log(data)
+
+                            $("#termekAdat").html("");
+
+
+                            let cim=jQuery("<h3>");
+                            cim.html(data.title);
+                            $("#termekAdat").append(cim)
+
+                            let ar=jQuery("<div>");
+                            ar.html("Ár: €"+data.price);
+                            $("#termekAdat").append(ar)
+
+
+                            let leiras=jQuery("<p>");
+                            leiras.html("Leírás:"+data.description);
+                            $("#termekAdat").append(leiras)
+
+
+                            let kategoria=jQuery("<div>");
+                            kategoria.html("Kategória: "+data.category);
+                            $("#termekAdat").append(kategoria)
+
+                            let kep=jQuery("<img>")
+                            kep.html(data.image)
+                            $("#termekAdat").append(kep)
+
+                            togglePopup();
+
+
+                        }
                         
+
+                       /* <div id="termekAdat">
+                <h3>Title</h3>
+                <div>Ár: price</div>
+                <p>Leírás: description</p>
+                <div>Kategória: category</div>
+                <img src="" >
+                <div>Értékelés: rate(count darab)</div>
+                 </div>
+                */
+
+
+
+
                         
                     });
 

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\tanciskola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05A69FB-DC54-4A91-BA80-3F9B2A8929AD}|tanciskola\\tanciskola.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\tanciskola\\tanciskola\\tancok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05A69FB-DC54-4A91-BA80-3F9B2A8929AD}|tanciskola\\tanciskola.csproj|solutionrelative:tanciskola\\tancok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05A69FB-DC54-4A91-BA80-3F9B2A8929AD}|tanciskola\\tanciskola.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\tanciskola\\tanciskola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05A69FB-DC54-4A91-BA80-3F9B2A8929AD}|tanciskola\\tanciskola.csproj|solutionrelative:tanciskola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tancok.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\tanciskola\\tanciskola\\tancok.cs",
+              "RelativeDocumentMoniker": "tanciskola\\tancok.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\tanciskola\\tanciskola\\tancok.cs",
+              "RelativeToolTip": "tanciskola\\tancok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:55:23.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\tanciskola\\tanciskola\\Program.cs",
+              "RelativeDocumentMoniker": "tanciskola\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\tanciskola\\tanciskola\\Program.cs",
+              "RelativeToolTip": "tanciskola\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:53:59.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
