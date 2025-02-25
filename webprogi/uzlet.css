@@ -3,18 +3,20 @@ body
     background-color: rgb(134, 128, 128);
 }
 .content {
+    
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 500px;
-    height: 200px;
+    min-height: 200px;
     text-align: center;
     background-color: #e8eae6;
     box-sizing: border-box;
     padding: 10px;
     z-index: 100;
     display: none;
+    padding-top: 50px;
     /*to hide popup initially*/
 }
 

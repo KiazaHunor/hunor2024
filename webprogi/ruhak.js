@@ -31,36 +31,21 @@ $.ajax(
                         dataType:'json',
                         success: function(data)
                         {
-                            console.log(data)
-
-                            $("#termekAdat").html("");
-
-
-                            let cim=jQuery("<h3>");
-                            cim.html(data.title);
-                            $("#termekAdat").append(cim)
-
-                            let ar=jQuery("<div>");
-                            ar.html("Ár: €"+data.price);
-                            $("#termekAdat").append(ar)
-
-
-                            let leiras=jQuery("<p>");
-                            leiras.html("Leírás:"+data.description);
-                            $("#termekAdat").append(leiras)
+                            //console.log(data)
+                            $("#termekTitle").html(data.title);
+                            $("#termekAr").html("Ár: " + data.price + "€");
+                            $("#termekLeiras").html("Leírás: " + data.description);
+                            $("#termekKategoria").html("Kategória: " + data.category);
+              
+                            let kep = jQuery("<img>");
+                            kep.prop("src", data.image);
+                            $("#termekKep").append(kep);
+              
+                            $("#termekErtekeles").html("Értékelés: Work in progress");
 
 
-                            let kategoria=jQuery("<div>");
-                            kategoria.html("Kategória: "+data.category);
-                            $("#termekAdat").append(kategoria)
-
-                            let kep=jQuery("<img>")
-                            kep.html(data.image)
-                            $("#termekAdat").append(kep)
 
                             togglePopup();
-
-
                         }
                         
 
