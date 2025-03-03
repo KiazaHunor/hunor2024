@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\tictacto.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\tictacto.csproj",
       "projectName": "tictacto",
-      "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\tictacto.csproj",
+      "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\tictacto.csproj",
       "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\obj\\",
+      "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\tictacto\\tictacto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",
