@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("toblap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf54bc842408f7a3782c248f9f5febdaa3d09c7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e72dd7a4181a0586da79ceb07d921cf0c739ab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("toblap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("toblap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
