@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("aknakereso")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("aknakereso2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3cd63dd7a075c06e28594b0eb11ec142bba07c")]
-[assembly: System.Reflection.AssemblyProductAttribute("aknakereso")]
-[assembly: System.Reflection.AssemblyTitleAttribute("aknakereso")]
+[assembly: System.Reflection.AssemblyProductAttribute("aknakereso2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("aknakereso2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
