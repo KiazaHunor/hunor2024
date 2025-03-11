@@ -1,0 +1,4 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakereso2\aknakereso2\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakereso2\aknakereso2\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakereso2\aknakereso2\obj\Debug\net8.0-windows\aknakereso2_MarkupCompile.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakereso2\aknakereso2\obj\Debug\net8.0-windows\aknakereso2_MarkupCompile.lref

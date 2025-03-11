@@ -46,6 +46,31 @@ namespace aknakereso2
             
             racs.Children.Remove()
                 this.SizeToContent = SizeToContent.WidthAndHeight;
+
+
+        void aknaLerak() 
+            {
+                aknaHely = new int[sor, oszlop];
+                for (int i = 0; k < aknaDarab; k++) 
+                {
+                    int randomSor = rand.Next(sor);
+                    int randomOszlop = rand.Next(oszlop);
+                    aknaHely = new int[randomOszlop, randomSor];
+                }
+                
+            }
+
+
+
+
+
+
+
+
+
+
+
+
         }
         private void kattintas(object sender, RoutedEventArgs e) 
         {
