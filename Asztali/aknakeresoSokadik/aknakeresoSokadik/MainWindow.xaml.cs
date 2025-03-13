@@ -118,9 +118,31 @@ namespace aknakeresoSokadik
         }
         private void kattintas(object sender, RoutedEventArgs e)
         {
-            Button kattintott = sender as Button;
-            if (kattintott == null) return;
+            Button button = sender as Button;
+            for (int i = 0; i < gombok.GetLength(0); i++)
+            {
+                for (int k = 0; k < gombok.GetLength(1); k++) 
+                {
+                    if (gombok[i, k] == button) 
+                    {
+                        gombok[i, k].Content = aknaHely[i, k];
+                        //itt kell megmutatni mi van mögötte
+                        
 
+                        k = gombok.GetLength(1);
+                        i=gombok.GetLength(0);
+                        //break;
+                    }
+                }
+            }
+
+
+
+
+
+
+            /*
+            if (kattintott == null) return;
             int sorIndex = -1, oszlopIndex = -1;
             for (int i = 0; i < sor; i++)
             {
@@ -148,6 +170,17 @@ namespace aknakeresoSokadik
                 kattintott.Content = aknak.ToString();
                 kattintott.IsEnabled = false;
             }
+            */
         }
+
+        void helyEllenoriz(int sor, int oszlop) 
+        {
+            if (aknaHely[sor, oszlop] == 10) 
+            {
+                Image akna = new Image();
+                
+            }
+        }
+
     }
     }

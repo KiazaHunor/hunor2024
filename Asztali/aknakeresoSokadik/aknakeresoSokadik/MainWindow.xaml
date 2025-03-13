@@ -9,6 +9,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="racs">
         <Button x:Name="startGomb" Content="Kezdés" HorizontalAlignment="Left" Margin="303,141,0,0" VerticalAlignment="Top" Height="58" Width="97" FontSize="22" FontFamily="Snap ITC" Click="startGomb_Click"/>
+        <Image Margin="72,106,528,128" Source="/tengeriakna.jpg" Stretch="Fill" Height="200" Width="200"/>
 
     </Grid>
 </Window>
