@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aknakeresoSokadik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f5ef364a4dc4cd394593d6511c299de03e87399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a0cc3990315ce408ac80f1a3dbec568f08d9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("aknakeresoSokadik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aknakeresoSokadik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

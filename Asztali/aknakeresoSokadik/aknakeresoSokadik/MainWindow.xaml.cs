@@ -178,7 +178,13 @@ namespace aknakeresoSokadik
             if (aknaHely[sor, oszlop] == 10) 
             {
                 Image akna = new Image();
-                
+                akna.Source = new BitmapImage(new Uri("tengeriakna.jpg", UriKind.Relative));
+
+                gombok[sor, oszlop].Content = akna;
+            }
+            else if (aknaHely[sor,oszlop] ==0)
+            {
+
             }
         }
 
