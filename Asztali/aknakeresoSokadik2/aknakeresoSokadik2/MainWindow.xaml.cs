@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace aknakeresoSokadik
+namespace aknakeresoSokadik2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -74,11 +74,11 @@ namespace aknakeresoSokadik
                 }
 
             }
-            for (int k = 0; k < aknaHely.GetLength(0); k++) 
+            for (int k = 0; k < aknaHely.GetLength(0); k++)
             {
                 for (int i = 0; i < aknaHely.GetLength(1); i++)
                 {
-                    if ((aknaHely[k, i])!= 10)
+                    if ((aknaHely[k, i]) != 10)
                     {
                         aknaHely[k, i] = aknaSzamol(k, i);
                     };
@@ -121,16 +121,16 @@ namespace aknakeresoSokadik
             Button button = sender as Button;
             for (int i = 0; i < gombok.GetLength(0); i++)
             {
-                for (int k = 0; k < gombok.GetLength(1); k++) 
+                for (int k = 0; k < gombok.GetLength(1); k++)
                 {
-                    if (gombok[i, k] == button) 
+                    if (gombok[i, k] == button)
                     {
-                        gombok[i, k].Content = aknaHely[i, k];
+                        //gombok[i, k].Content = aknaHely[i, k];
                         //itt kell megmutatni mi van mögötte
-                        
+
 
                         k = gombok.GetLength(1);
-                        i=gombok.GetLength(0);
+                        i = gombok.GetLength(0);
                         //break;
                     }
                 }
@@ -173,20 +173,41 @@ namespace aknakeresoSokadik
             */
         }
 
-        void helyEllenoriz(int sor, int oszlop) 
+        void helyEllenoriz(int sor, int oszlop)
         {
-            if (aknaHely[sor, oszlop] == 10) 
+            if (aknaHely[sor, oszlop] == 10)
             {
                 Image akna = new Image();
                 akna.Source = new BitmapImage(new Uri("tengeriakna.jpg", UriKind.Relative));
 
                 gombok[sor, oszlop].Content = akna;
             }
-            else if (aknaHely[sor,oszlop] ==0)
+            else if (aknaHely[sor, oszlop] == 0)
             {
+                gombok[sor, oszlop].Background = Brushes.White;
+                for (int i = -1; i < 2; i++)
+                {
+                    for (int k = -1; k < 2; k++)
+                    {
+                        try
+                        {
+                            int temp = aknaHely[sor + i, oszlop + k];
+                            if ((i != 0 || k != 0) && gombok[sor + i, oszlop + k].Background != Brushes.White) ;
+                            {
+                                helyEllenoriz(sor + i, oszlop + k);
+                            }
 
+                        }
+                        catch { }
+                    }
+
+                }
+            }
+            else 
+            {
+                gombok[sor, oszlop].Content = aknaHely[sor,oszlop];
             }
         }
 
     }
-    }
+}

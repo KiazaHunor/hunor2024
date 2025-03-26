@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakeresoSokadik\aknakeresoSokadik\obj\Debug\net8.0-windows\
-aknakeresoSokadik_az4teuuy_wpftmp
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakeresoSokadik\aknakeresoSokadik\obj\Release\net8.0-windows\
+aknakeresoSokadik
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\aknakeresoSokadik\aknakeresoSokadik\App.xaml
 11407045341
 
-62130682667
-396-1270035808
+4-1651369928
+198-635017904
 MainWindow.xaml;
 
-False
+True
 
