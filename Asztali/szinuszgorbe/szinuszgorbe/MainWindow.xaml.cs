@@ -38,26 +38,44 @@ namespace szinuszgorbe
                 InitializeComponent();
             }
             int x = 0;
+            bool novekszik = true;
             void rajzol(object sender, EventArgs e) 
             {
             origoX = r * 1.1;
             origoY = Height / 2;
+            vaszon.Children.Clear();
 
-            ;
+            
+
+            kordinataRajzol();
+
             kor(x);
             sugar(x);
-            kordinataRajzol();
             pirosVonal(x);
             pont(x);
-
-            x += 1;
+            korivNagy(x);
+            if (novekszik)
+            {
+                x += 1;
+            }
+            else 
+            {
+                x -= 1;
+            }
+            if (x >= 360 || x <= 0) 
+            {
+                
+                novekszik=!novekszik;
+            }
+            
+            
 
         }
         private void vaszon_Loaded(object sender, RoutedEventArgs e)
             {
             DispatcherTimer timer = new DispatcherTimer();
             timer.Tick += rajzol;
-            timer.Interval = TimeSpan.FromMilliseconds(40);
+            timer.Interval = TimeSpan.FromMilliseconds(10);
             timer.Start();
             }
             int r = 100;
@@ -165,6 +183,38 @@ namespace szinuszgorbe
                 vonal.Y2 = origoY - magassag;
 
                 vaszon.Children.Add(vonal);
+            }
+            void korivNagy(int x) 
+            {
+            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
+            double x1 = origoX + x - dX + r;
+            double y1 = origoY;
+
+            //double vonal.X2 = x + origoX;
+            //double vonal.Y2 = origoY - magassag;
+
+
+
+            Path path = new Path();
+            path.Stroke = Brushes.Blue;
+            path.StrokeThickness = 5;
+
+            PathGeometry geometri = new PathGeometry();
+            PathFigure figure = new PathFigure();
+            figure.StartPoint = new Point(100, 100);
+
+            ArcSegment arc = new ArcSegment();
+            arc.Point = new Point(200, 200);
+
+            arc.Size = new Size(r, r);
+            arc.IsLargeArc = true;
+            arc.SweepDirection = SweepDirection.Clockwise;
+
+            figure.Segments.Add(arc);
+            geometri.Figures.Add(figure);
+            path.Data = geometri;
+
+            vaszon.Children.Add(path);
             }
         }
     }
