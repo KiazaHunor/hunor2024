@@ -54,6 +54,7 @@ namespace szinuszgorbe
             pirosVonal(x);
             pont(x);
             korivNagy(x);
+            korivKicsi(x);
             if (novekszik)
             {
                 x += 1;
@@ -148,8 +149,9 @@ namespace szinuszgorbe
             int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
 
             Line vonal = new Line();
-            vonal.Stroke = Brushes.Black;
-            vonal.StrokeThickness = 3;
+            vonal.Stroke = Brushes.Gray;
+         
+            vonal.StrokeThickness = 1;
             vonal.X1 = x + origoX-dX;
             vonal.Y1 = origoY;
             vonal.X2 = x + origoX;
@@ -186,9 +188,13 @@ namespace szinuszgorbe
             }
             void korivNagy(int x) 
             {
-            int dX = (int)(Math.Cos(x / 180.0 * Math.PI) * r);
+            double dX = (Math.Cos(x / 180.0 * Math.PI) * r);
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+
             double x1 = origoX + x - dX + r;
             double y1 = origoY;
+            double x2 = x + origoX;
+            double y2 = origoY - magassag;
 
             //double vonal.X2 = x + origoX;
             //double vonal.Y2 = origoY - magassag;
@@ -201,14 +207,14 @@ namespace szinuszgorbe
 
             PathGeometry geometri = new PathGeometry();
             PathFigure figure = new PathFigure();
-            figure.StartPoint = new Point(100, 100);
+            figure.StartPoint = new Point(x1, y1);
 
             ArcSegment arc = new ArcSegment();
-            arc.Point = new Point(200, 200);
+            arc.Point = new Point(x2, y2);
 
             arc.Size = new Size(r, r);
-            arc.IsLargeArc = true;
-            arc.SweepDirection = SweepDirection.Clockwise;
+            arc.IsLargeArc = x>180;
+            arc.SweepDirection = SweepDirection.Counterclockwise;
 
             figure.Segments.Add(arc);
             geometri.Figures.Add(figure);
@@ -216,5 +222,42 @@ namespace szinuszgorbe
 
             vaszon.Children.Add(path);
             }
+        void korivKicsi(int x)
+        {
+            double dX = (Math.Cos(x / 180.0 * Math.PI) * r);
+            double magassag = (Math.Sin(x / 180.0 * Math.PI) * r);
+
+            double x1 = origoX + x - dX + r/10;
+            double y1 = origoY;
+            double x2 = (x + origoX-dX-(x+origoX))*.1;
+            double y2 = (origoY-(origoY - magassag)*10)*.1;
+
+            //double vonal.X2 = x + origoX;
+            //double vonal.Y2 = origoY - magassag;
+
+
+
+            Path path = new Path();
+            path.Stroke = Brushes.Blue;
+            path.StrokeThickness = 5;
+
+            PathGeometry geometri = new PathGeometry();
+            PathFigure figure = new PathFigure();
+            figure.StartPoint = new Point(x1, y1);
+
+            ArcSegment arc = new ArcSegment();
+            arc.Point = new Point(x2, y2);
+
+            arc.Size = new Size(r, r);
+            arc.IsLargeArc = x > 180;
+            arc.SweepDirection = SweepDirection.Counterclockwise;
+
+            figure.Segments.Add(arc);
+            geometri.Figures.Add(figure);
+            path.Data = geometri;
+
+            vaszon.Children.Add(path);
+            
         }
+    }
     }
