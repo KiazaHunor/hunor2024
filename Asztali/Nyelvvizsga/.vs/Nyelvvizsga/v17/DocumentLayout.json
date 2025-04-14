@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nyelvvizsga\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nyelvvizsga\\NyelvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nyelvvizsga\\EvAdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NyelvAdat.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\NyelvAdat.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
               "RelativeToolTip": "Nyelvvizsga\\NyelvAdat.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAASwBgAAAAPAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAASwDMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:25:46.909Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EvAdat.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\EvAdat.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
               "RelativeToolTip": "Nyelvvizsga\\EvAdat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:22:20.988Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
               "RelativeToolTip": "Nyelvvizsga\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:11:22.242Z",
               "EditorCaption": ""

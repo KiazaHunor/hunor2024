@@ -22,10 +22,14 @@ namespace Nyelvvizsga
             }
             
         }
+
+
         public NyelvAdat(string nyelv, int[] adatok, int[] evszamok)
         {
             segedKonstruktor(nyelv, adatok, evszamok);
         }
+
+
          private void segedKonstruktor(string nyelv, int[] adatok, int[] evszamok) 
         {
             this.nyelv = nyelv;
@@ -34,6 +38,16 @@ namespace Nyelvvizsga
             {
                 this.vizsgak.Add(new EvAdat(evszamok[i], adatok[i]));
             }
+        }
+        public int osszesVizsgazo() 
+        {
+
+            int osszeg = 0;
+            for (int i = 0; i < this.vizsgak.Count; i++) 
+            { 
+                osszeg += this.vizsgak[i];
+            }
+            return 1;
         }
     }
 }
