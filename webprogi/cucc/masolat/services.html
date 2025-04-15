@@ -1,14 +1,84 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
     <title>Hőlégballon</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
+
 <body>
-    <script href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
+
+    <header class="container">
+        <div class="row d-flex align-items-center h-100">
+            <div class="col-1"></div>
+            <div class="col-10">
+                <h1>Hőlégballon<div>Szolgáltatások</div>
+                </h1>
+            </div>
+            <div class="col-1"></div>
+        </div>
+    </header>
+    <div class="container" id="navbar">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white" href="index.html">Hőlégballon</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="#felepites">Felépítése</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="#tortenet">Története</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="services.html">Áruk, szolgáltatások</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <table id="tablazat" class="table table-bordered border-black">
+            <tr>
+                <th colspan="2">Megnevezés</th>
+                <th>Ár</th>
+            </tr>
+            <tr>
+                <td rowspan="2">Hőlégballonos sétarepülő jegy</td>
+                <td>Felnőtt</td>
+                <td>40.000 Ft/fő</td>
+            </tr>
+            <tr>
+                <td>Gyerek (10-14 év)</td>
+                <td>28.000 Ft/fő</td>
+            </tr>
+            <tr>
+                <td>Privát/romantikus repülés</td>
+                <td></td>
+                <td>70.000 Ft/2 fő</td>
+            </tr>
+        </table>
+        <form>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname">
+          </form>
+    </div>
+
+    <script src="./js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
