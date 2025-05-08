@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\bin\Debug\net8.0\erettsegi.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\refint\erettsegi.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\erettsegi.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\erettsegi\erettsegi\obj\Debug\net8.0\ref\erettsegi.dll

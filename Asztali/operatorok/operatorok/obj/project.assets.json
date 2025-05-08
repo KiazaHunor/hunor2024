@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
+      "projectName": "operatorok",
+      "projectPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
+      "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
+      "outputPath": "D:\\munkakönyvtár\\Horváth Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\obj\\",
+=======
       "projectUniqueName": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
       "projectName": "operatorok",
       "projectPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\operatorok.csproj",
       "packagesPath": "C:\\Users\\horvathh21\\.nuget\\packages\\",
       "outputPath": "D:\\munkakönyvtár\\Horvath Hunor\\hunor2024\\Asztali\\operatorok\\operatorok\\obj\\",
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\horvathh21\\AppData\\Roaming\\NuGet\\NuGet.Config",

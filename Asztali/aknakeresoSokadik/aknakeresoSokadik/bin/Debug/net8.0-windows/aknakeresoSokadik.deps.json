@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aknakeresoSokadik/1.0.0": {
+        "runtime": {
+          "aknakeresoSokadik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aknakeresoSokadik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

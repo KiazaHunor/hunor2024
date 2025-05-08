@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\bin\Debug\net8.0\regexsokadik.exe
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\bin\Debug\net8.0\regexsokadik.deps.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\bin\Debug\net8.0\regexsokadik.runtimeconfig.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\bin\Debug\net8.0\regexsokadik.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\bin\Debug\net8.0\regexsokadik.pdb
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.AssemblyInfo.cs
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.sourcelink.json
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\refint\regexsokadik.dll
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.pdb
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\regexsokadik.genruntimeconfig.cache
+D:\munkakönyvtár\Horváth Hunor\hunor2024\Asztali\regexsokadik\regexsokadik\obj\Debug\net8.0\ref\regexsokadik.dll

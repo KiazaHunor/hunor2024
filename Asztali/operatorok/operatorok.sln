@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorok", "operatorok\operatorok.csproj", "{953851F7-A827-4B56-B629-3672FD53F228}"
+=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorok", "operatorok\operatorok.csproj", "{49EE878E-0327-4DF0-BC59-5699312D5CDD}"
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{953851F7-A827-4B56-B629-3672FD53F228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953851F7-A827-4B56-B629-3672FD53F228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953851F7-A827-4B56-B629-3672FD53F228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953851F7-A827-4B56-B629-3672FD53F228}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
 		{49EE878E-0327-4DF0-BC59-5699312D5CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49EE878E-0327-4DF0-BC59-5699312D5CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EE878E-0327-4DF0-BC59-5699312D5CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49EE878E-0327-4DF0-BC59-5699312D5CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {8B304C5E-4BD4-4EE1-9219-8A1A88E67F35}
+=======
 		SolutionGuid = {0EE190F4-F6B9-4D64-9C8E-8104A4E5564E}
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
 	EndGlobalSection
 EndGlobal

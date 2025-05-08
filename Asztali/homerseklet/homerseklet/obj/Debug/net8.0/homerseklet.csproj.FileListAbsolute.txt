@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\bin\Debug\net8.0\homerseklet.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\refint\homerseklet.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\homerseklet.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\homerseklet\homerseklet\obj\Debug\net8.0\ref\homerseklet.dll

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dolgozat</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: top;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    #negyzet {
+      background-color: #197509;
+      width: 5px;
+      height: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="negyzet"></div>
+  
+  <script>
+    const negyzet = document.getElementById('negyzet');
+    let meret = 100; 
+    let novekves = true; 
+
+
+function animacio() 
+{
+  negyzet.style.width = `${meret}px`;
+  negyzet.style.height = `${meret}px`;
+
+  if (novekves) {
+    meret++;
+    if (meret >= 800) novekves = false; 
+  } else {
+    meret--;
+    if (meret <= 100) novekves = true; 
+  }
+
+  requestAnimationFrame(animacio);
+}
+
+animacio();
+  </script>
+</body>
+</html>

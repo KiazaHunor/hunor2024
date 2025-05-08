@@ -8,6 +8,30 @@ namespace operatorok
 {
     internal class Pont
     {
+<<<<<<< HEAD
+        public int X;
+        public int Y;
+
+        public Pont(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+        public Pont(int x) 
+        {
+            X = x;
+            Y = 0;
+        }
+        public Pont() 
+        {
+            X=0;
+            Y=0;
+        }
+
+        public static Pont operator + (Pont a, Pont b) 
+        {
+            return new Pont (a.X+b.X, a.Y+b.Y);
+=======
         public int x;
         public int y;
         public Pont(int x, int y)
@@ -111,13 +135,21 @@ namespace operatorok
         public string bool operator != (Pont a,Pont b) 
         {
             return !a.Equals(b);
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136
         }
 
         public override string ToString()
         {
+<<<<<<< HEAD
+            return $"X:{X}, X:{Y}";
+        }
+    }
+}
+=======
             return $"x:{x}, y:{y}";
             //"x: " + x + ", y: " + y;
         }
     }
 }
 
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136

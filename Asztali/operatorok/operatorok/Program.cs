@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+﻿using operatorok;
+
+Pont pi1 = new Pont(1, 1);
+Pont pi2 = new Pont(2, 3);
+Console.WriteLine(p1 + p2);
+=======
 ﻿
 using operatorok;
 
@@ -35,3 +42,4 @@ Console.WriteLine(p1.Equals(new Pont(1,1)));
 
 Console.WriteLine(p1 == p2);
 Console.WriteLine(p1 != p2);
+>>>>>>> b9a9d92a942e473ebd9ca786040f16714de68136

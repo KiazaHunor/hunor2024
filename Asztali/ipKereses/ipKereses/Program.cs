@@ -1,0 +1,69 @@
+﻿using System.Text.RegularExpressions;
+
+
+string text = File.ReadAllText("szoveg.txt");
+
+Regex minta = new Regex(@"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}");
+
+var talalat = minta.Matches(text);
+Console.WriteLine(talalat.Count);
+foreach (Match elem in talalat)
+{
+    Console.WriteLine(elem);
+}
+
+Dictionary<Match, int> stats = new Dictionary<Match, int>();
+foreach (Match elem in talalat)
+{
+    if (stats.ContainsKey(elem))
+    {
+        stats[elem]++;
+    }
+    else
+    {
+        stats.Add(elem, 1);
+    }
+}
+foreach (KeyValuePair<Match, int> elem in stats)
+{
+    if (elem.Value != 1)
+    {
+        Console.WriteLine(elem);
+    }
+}
+
+Regex minta2 = new Regex(@"GET (/\S*)");
+
+var talalat2 = minta2.Matches(text);
+Console.WriteLine(talalat2.Count);
+foreach (Match elem in talalat2)
+{
+    Console.WriteLine(elem.Groups[1].Value);
+}
+
+Dictionary<Match, int> stats2 = new Dictionary<Match, int>();
+foreach (Match elem in talalat2)
+{
+    if (stats2.ContainsKey(elem))
+    {
+        stats[elem]++;
+    }
+    else
+    {
+        stats2.Add(elem, 1);
+    }
+}
+
+
+Regex minta3 = new Regex(@"GET (/\S*)");
+
+var talalat3 = minta3.Matches(text);
+Console.WriteLine(talalat3.Count);
+foreach (Match elem in talalat3)
+{
+    Console.WriteLine(elem.Groups[1].Value);
+}
+
+
+
+

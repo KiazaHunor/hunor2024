@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\aknakeresoSokadik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6619E482-C9CC-4F48-B91A-D9E3935C155D}|aknakeresoSokadik\\aknakeresoSokadik.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\aknakeresosokadik\\aknakeresosokadik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6619E482-C9CC-4F48-B91A-D9E3935C155D}|aknakeresoSokadik\\aknakeresoSokadik.csproj|solutionrelative:aknakeresosokadik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6619E482-C9CC-4F48-B91A-D9E3935C155D}|aknakeresoSokadik\\aknakeresoSokadik.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\aknakeresosokadik\\aknakeresosokadik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6619E482-C9CC-4F48-B91A-D9E3935C155D}|aknakeresoSokadik\\aknakeresoSokadik.csproj|solutionrelative:aknakeresosokadik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\aknakeresoSokadik\\aknakeresoSokadik\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "aknakeresoSokadik\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\aknakeresoSokadik\\aknakeresoSokadik\\MainWindow.xaml*",
+              "RelativeToolTip": "aknakeresoSokadik\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T10:47:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\aknakeresoSokadik\\aknakeresoSokadik\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "aknakeresoSokadik\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\aknakeresoSokadik\\aknakeresoSokadik\\MainWindow.xaml.cs",
+              "RelativeToolTip": "aknakeresoSokadik\\MainWindow.xaml.cs",
+<<<<<<< HEAD
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwLUAAAANAAAA",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMAAAAAAAAAA",
+>>>>>>> 6bf19f9c2b4bc49be88affa2d5c29c4809b22aa5
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:47:11.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

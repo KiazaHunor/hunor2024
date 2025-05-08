@@ -1,0 +1,53 @@
+header {
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+h1 {
+    font-family: Cambria, serif;
+    font-size: 5em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    color: turquoise;
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+h1 div{
+    font-size: 3rem;
+    font-style: italic;
+    letter-spacing: normal;
+    text-transform: none;
+}
+
+#navbar{
+    background-color: rgb(18, 112, 132);
+    color: white;
+}
+
+#lista > li{
+    list-style-image: url("icon.png");
+    line-height: 25px;
+}
+
+h2{
+    font-variant: small-caps;
+}
+
+#reszeikep{
+    box-shadow: 2px 2px 5px black;
+}
+
+
+
+@media only screen and(max-width: 768px){
+    h1{
+        font-size: 3em;
+    }
+}
+.arnyek
+{
+    box-shadow: 2px 2px 5px black;
+}

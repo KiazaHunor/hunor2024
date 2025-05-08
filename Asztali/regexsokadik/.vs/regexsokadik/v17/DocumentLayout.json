@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\regexsokadik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFFE902-5913-4F7A-BEFE-328C3CF17A47}|regexsokadik\\regexsokadik.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horv\u00E1th hunor\\hunor2024\\asztali\\regexsokadik\\regexsokadik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFFE902-5913-4F7A-BEFE-328C3CF17A47}|regexsokadik\\regexsokadik.csproj|solutionrelative:regexsokadik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\regexsokadik\\regexsokadik\\Program.cs",
+              "RelativeDocumentMoniker": "regexsokadik\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horv\u00E1th Hunor\\hunor2024\\Asztali\\regexsokadik\\regexsokadik\\Program.cs",
+              "RelativeToolTip": "regexsokadik\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:02:25.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

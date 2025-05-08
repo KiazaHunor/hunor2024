@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\bin\Debug\net8.0\rekuzio.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\bin\Debug\net8.0\rekuzio.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\bin\Debug\net8.0\rekuzio.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\bin\Debug\net8.0\rekuzio.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\bin\Debug\net8.0\rekuzio.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\refint\rekuzio.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\rekuzio.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\rekuzio\rekuzio\obj\Debug\net8.0\ref\rekuzio.dll
