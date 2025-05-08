@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\bin\Debug\net8.0\JackieConsole.exe
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\bin\Debug\net8.0\JackieConsole.deps.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\bin\Debug\net8.0\JackieConsole.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\bin\Debug\net8.0\JackieConsole.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\bin\Debug\net8.0\JackieConsole.pdb
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\refint\JackieConsole.dll
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.pdb
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\JackieConsole.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\2024-25\hunor2024\Asztali\JackieConsole\JackieConsole\obj\Debug\net8.0\ref\JackieConsole.dll
