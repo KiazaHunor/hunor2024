@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\kutyak\\kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\kutyak\\kutyak\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\kutyak\\kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|d:\\munkak\u00F6nyvt\u00E1r\\horvath hunor\\hunor2024\\asztali\\kutyak\\kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18322B9F-9766-4570-AF12-CAF9B22D2EC3}|Kutyak\\Kutyak.csproj|solutionrelative:kutyak\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KutyaFajta.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\KutyaFajta.cs",
+              "RelativeDocumentMoniker": "Kutyak\\KutyaFajta.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\KutyaFajta.cs",
+              "RelativeToolTip": "Kutyak\\KutyaFajta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:10:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KutyaNev.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\KutyaNev.cs",
+              "RelativeDocumentMoniker": "Kutyak\\KutyaNev.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\KutyaNev.cs",
+              "RelativeToolTip": "Kutyak\\KutyaNev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:50:40.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kutyak\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\MainWindow.xaml",
+              "RelativeToolTip": "Kutyak\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T10:45:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kutyak\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Horvath Hunor\\hunor2024\\Asztali\\Kutyak\\Kutyak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kutyak\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:45:41.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
