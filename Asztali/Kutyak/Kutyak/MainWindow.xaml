@@ -10,6 +10,17 @@
         <Label Name="label1" Content="Kutyanevek száma:" HorizontalAlignment="Left" Margin="130,29,0,0" VerticalAlignment="Top"/>
         <Label  Name="label2"  Content="" HorizontalAlignment="Left" Margin="240,29,0,0" VerticalAlignment="Top"/>
         <Button Content="3.feladat" HorizontalAlignment="Left" Margin="35,29,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="6.feladat" HorizontalAlignment="Left" Margin="35,92,0,0" VerticalAlignment="Top" Width="49" Click="Button_Click_1"/>
+        <Label Name="label3" Content="A lutyák átlagéletkora" HorizontalAlignment="Left" Margin="147,86,0,0" VerticalAlignment="Top"/>
+        <Label  Name="label4" Content="" HorizontalAlignment="Left" Margin="267,89,0,0" VerticalAlignment="Top"/>
+        <Button Content="7.feladat" HorizontalAlignment="Left" Margin="35,144,0,0" VerticalAlignment="Top" Width="49" Click="Button_Click_2"/>
+        <Label Name="label5" Content="legidősebb kutya neve és fajtája" HorizontalAlignment="Left" Margin="147,141,0,0" VerticalAlignment="Top"/>
+        <Label Name="label6" Content="" HorizontalAlignment="Left" Margin="344,144,0,0" VerticalAlignment="Top"/>
+        <Button Content="8.feladat" HorizontalAlignment="Left" Margin="35,197,0,0" VerticalAlignment="Top" Width="49" Click="Button_Click_3"/>
+        <DatePicker  Name="datePicker" HorizontalAlignment="Left" Margin="224,191,0,0" VerticalAlignment="Top" DisplayDate="2018-01-10"/>
+        <Label Content="Datum" HorizontalAlignment="Left" Margin="138,191,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lisBox"  Margin="197,238,388,64"/>
+
 
     </Grid>
 </Window>
