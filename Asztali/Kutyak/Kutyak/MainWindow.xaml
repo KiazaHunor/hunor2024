@@ -20,6 +20,11 @@
         <DatePicker  Name="datePicker" HorizontalAlignment="Left" Margin="224,191,0,0" VerticalAlignment="Top" DisplayDate="2018-01-10"/>
         <Label Content="Datum" HorizontalAlignment="Left" Margin="138,191,0,0" VerticalAlignment="Top"/>
         <ListBox x:Name="lisBox"  Margin="197,238,388,64"/>
+        <Button Content="9.feladat" HorizontalAlignment="Left" Margin="40,381,0,0" VerticalAlignment="Top" Click="Button_Click_4"/>
+        <Label Content="Legjobban leterhelt nap:" HorizontalAlignment="Left" Margin="123,383,0,0" VerticalAlignment="Top"/>
+        <Label Name="label7" Content="" HorizontalAlignment="Left" Margin="286,383,0,0" VerticalAlignment="Top"/>
+        <Label Name="label8" Content="Label" HorizontalAlignment="Left" Margin="362,383,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kutya" HorizontalAlignment="Left" Margin="459,383,0,0" VerticalAlignment="Top"/>
 
 
     </Grid>

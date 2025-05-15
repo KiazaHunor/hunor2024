@@ -100,8 +100,27 @@ namespace Kutyak
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            var aznapi=kutyak.Where(x=>x.datum==DateOnly.FromDateTime((DateTime)datePicker.SelectedDate));
-            lisBox.ItemsSource = aznapi.Select(x => x.nev.nev);
+            var aznapi=kutyak.Where(x=>x.datum==DateOnly.FromDateTime((DateTime)datePicker.SelectedDate))
+                              .GroupBy(x=>x.fajta.nev)
+                              .Select(x=>(x.Key,x.Count()))
+                              .ToList();
+            lisBox.ItemsSource = aznapi.Select(x => x.Key + ": " + x.Item2+ "kutya");
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            var adatok = kutyak.GroupBy(x => x.datum)
+                             .Select(x => (x.Key, x.Count()))
+                             .ToList();
+            //adatok.Max();
+
+            label7.Content = kutyak
+                .GroupBy(x => x.datum)
+                .MaxBy(x => x.Count())
+                .Select(x => x.datum)
+                .First().ToShortDateString();
+            label8.Content = adatok.Count();
+
         }
     }
 }
