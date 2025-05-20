@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kutyak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c7cf8d1f332e9834579068fae19c30f401fe2df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3f76cab6c19b77fa24b45cf8bd8c352381f5df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kutyak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kutyak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

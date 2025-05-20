@@ -1,0 +1,41 @@
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.exe
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.deps.json
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.runtimeconfig.json
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.pdb
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004_MarkupCompile.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004_MarkupCompile.lref
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.g.resources
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.AssemblyInfoInputs.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.AssemblyInfo.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.csproj.CoreCompileInputs.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\refint\kosar2004.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.pdb
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.genruntimeconfig.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\kosar2004\kosar2004\obj\Debug\net8.0-windows\ref\kosar2004.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\bin\Debug\net8.0-windows\kosar2004.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004_MarkupCompile.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004_MarkupCompile.lref
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.g.resources
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\refint\kosar2004.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\kosar2004.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Asztali\kosar2004\kosar2004\kosar2004\obj\Debug\net8.0-windows\ref\kosar2004.dll

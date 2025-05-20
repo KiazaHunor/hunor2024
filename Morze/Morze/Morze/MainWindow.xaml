@@ -1,0 +1,25 @@
+﻿<Window x:Class="Morze.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Morze"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Button Content="3.feladat" HorizontalAlignment="Left" Margin="51,46,0,0" VerticalAlignment="Top" Height="57" Width="92" Click="Button_Click"/>
+        <Label Content="A morze abc" HorizontalAlignment="Left" Margin="175,62,0,0" VerticalAlignment="Top"/>
+        <Label  Name="label1" Content="" HorizontalAlignment="Left" Margin="269,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="db karakter kódját tartalmazza" HorizontalAlignment="Left" Margin="301,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="4.feladat" HorizontalAlignment="Left" Margin="59,139,0,0" VerticalAlignment="Top" Height="33" Width="84"/>
+        <TextBlock HorizontalAlignment="Left" Margin="175,148,0,0"  Text="Kérek egy karaktert:" VerticalAlignment="Top"/>
+        <TextBox  x:Name="beker" HorizontalAlignment="Left" Margin="301,146,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" KeyDown="beker_KeyDown" />
+        <Label  Name="label2" Content="Label" HorizontalAlignment="Left" Margin="450,143,0,0" VerticalAlignment="Top"/>
+
+
+
+
+
+
+    </Grid>
+</Window>

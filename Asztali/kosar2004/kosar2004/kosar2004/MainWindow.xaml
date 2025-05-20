@@ -1,0 +1,27 @@
+﻿<Window x:Class="kosar2004.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kosar2004"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Button Content="3.feladat" HorizontalAlignment="Left" Margin="56,39,0,0" VerticalAlignment="Top" Height="38" Width="60" Click="Button_Click"/>
+        <Label Name="label1" Content="Real Madrid:" HorizontalAlignment="Left" Margin="144,45,0,0" VerticalAlignment="Top"/>
+        <Label Name="label2" Content="Hazai:" HorizontalAlignment="Left" Margin="237,45,0,0" VerticalAlignment="Top"/>
+        <Label Name="label3" Content="" HorizontalAlignment="Left" Margin="284,45,0,0" VerticalAlignment="Top"/>
+        <Label Name="label4" Content="Idegen:" HorizontalAlignment="Left" Margin="373,45,0,0" VerticalAlignment="Top"/>
+        <Label Name="label5" Content="" HorizontalAlignment="Left" Margin="457,45,0,0" VerticalAlignment="Top"/>
+        <Button Content="4.feladat" HorizontalAlignment="Left" Margin="56,108,0,0" VerticalAlignment="Top" Height="34" Width="60" Click="Button_Click_1"/>
+        <Label Name="label6" Content="Volt döntetlen?" HorizontalAlignment="Left" Margin="144,112,0,0" VerticalAlignment="Top" Width="92"/>
+        <Label Name="label7" Content="" HorizontalAlignment="Left" Margin="248,112,0,0" VerticalAlignment="Top"/>
+        <Button Content="5.feladat" HorizontalAlignment="Left" Margin="56,170,0,0" VerticalAlignment="Top" Height="38" Width="60" Click="Button_Click_2"/>
+        <Label  Name="label8" Content="A barcelonai csapat teljes neve:" HorizontalAlignment="Left" Margin="133,176,0,0" VerticalAlignment="Top"/>
+        <Label Name="label9" Content="" HorizontalAlignment="Left" Margin="330,176,0,0" VerticalAlignment="Top"/>
+        <Button Content="6.feladat" HorizontalAlignment="Left" Margin="56,250,0,0" VerticalAlignment="Top" Height="47" Width="60" Click="Button_Click_3"/>
+        <ListBox Name="listBox" Margin="133,250,450,36" />
+        <DatePicker  Name="datePicker" HorizontalAlignment="Left" Margin="373,273,0,0" VerticalAlignment="Top" SelectedDate="2004-11-04"/>
+
+    </Grid>
+</Window>

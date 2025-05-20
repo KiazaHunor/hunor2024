@@ -1,0 +1,41 @@
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\bin\Debug\net8.0-windows\Morze.exe
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\bin\Debug\net8.0-windows\Morze.deps.json
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\bin\Debug\net8.0-windows\Morze.runtimeconfig.json
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\bin\Debug\net8.0-windows\Morze.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\bin\Debug\net8.0-windows\Morze.pdb
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze_MarkupCompile.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze_MarkupCompile.lref
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.g.resources
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.AssemblyInfoInputs.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.AssemblyInfo.cs
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.csproj.CoreCompileInputs.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\refint\Morze.dll
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.pdb
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\Morze.genruntimeconfig.cache
+C:\Users\horva\Documents\Hunor tanulás bocsi Szíra\Morze\Morze\obj\Debug\net8.0-windows\ref\Morze.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\bin\Debug\net8.0-windows\Morze.exe
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\bin\Debug\net8.0-windows\Morze.deps.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\bin\Debug\net8.0-windows\Morze.runtimeconfig.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\bin\Debug\net8.0-windows\Morze.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\bin\Debug\net8.0-windows\Morze.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze_MarkupCompile.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze_MarkupCompile.lref
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\MainWindow.baml
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.g.resources
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.AssemblyInfo.cs
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.sourcelink.json
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\refint\Morze.dll
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.pdb
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\Morze.genruntimeconfig.cache
+D:\munkakönyvtár\Horvath Hunor\hunor2024\Morze\Morze\Morze\obj\Debug\net8.0-windows\ref\Morze.dll
