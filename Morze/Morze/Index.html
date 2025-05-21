@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morze</title>
+    <style>
+        body{ font-family: monospace; padding: 1rem;}
+        pre{ background: #f4f4f4; padding: 2rem; border-radius: 5px;}
+    </style>
+</head>
+<body>
+    <h1>Morze</h1>
+
+    <label> ABC fájl
+        <input type="file" id="abcFile" accept=".txt"/>
+    </label><br><br>
+    <label>Morze szöveges fájl:
+        <input type="file" id="textFile" accept=".txt">
+    </label><br><br>
+
+
+    <button onclick="feldolgoz()">Feldolgozás</button>
+
+    <pre id="output">Ide kerül az eredmény</pre>
+
+
+    <script>
+    let morzeSzotar = {};
+
+    function parseMorzeABC(text) {
+      const lines = text.trim().split('\n');
+      for (let i = 1; i < lines.length; i++) {
+        const [betu, kod] = lines[i].split('\t');
+        morzeSzotar[kod] = betu;
+      }
+    }
+
+    function parseMorzeSzoveg(text) {
+      const mondatok = text.trim().split(';').map(s => s.trim());
+      const dekodolt = mondatok.map(sor => {
+        const szavak = sor.split('       '); // 7 space = szóköz
+        return szavak.map(szo => {
+          const karakterek = szo.trim().split('   '); // 3 space = betűk közt
+          return karakterek.map(kod => morzeSzotar[kod] || '?').join('');
+        }).join(' ');
+      });   
+      return dekodolt;
+    }
+
+    async function feldolgoz() {
+      const abcInput = document.getElementById('abcFile').files[0];
+      const textInput = document.getElementById('textFile').files[0];
+      const output = document.getElementById('output');
+      if (!abcInput || !textInput) {
+        output.textContent = "Kérlek töltsd fel mindkét fájlt!";
+        return;
+      }
+
+      const abcText = await abcInput.text();
+      const morzeText = await textInput.text();
+
+      parseMorzeABC(abcText);
+      const dekodolt = parseMorzeSzoveg(morzeText);
+
+      let eredmeny = '';
+      eredmeny += "1. feladat:\nMorze ABC betöltve, " + Object.keys(morzeSzotar).length + " karakterrel.\n\n";
+      eredmeny += "2. feladat:\nMorze üzenetek száma: " + dekodolt.length + "\n\n";
+      eredmeny += "3. feladat:\nElső üzenet:\n" + dekodolt[0] + "\n\n";
+
+      output.textContent = eredmeny;
+    }
+  </script>
+
+
+</body>
+</html>

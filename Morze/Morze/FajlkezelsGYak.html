@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<input type="file" id="fileInput" />
+<div id="fileInfo"></div>
+
+<input type="file" id="textInput1" />
+<div id="textOutput1">Upload a text file please</div>
+
+
+<script>
+  document.getElementById('fileInput').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    const info = `File Name: ${file.name} <br> File Size: ${file.size} bytes<br> File Type: ${file.type}`;
+    document.getElementById('fileInfo').innerHTML = info;
+  });
+
+
+document.getElementById('textInput1').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      document.getElementById('textOutput1').innerHTML = e.target.result;
+    };
+    reader.readAsText(file);
+    reader.onerror = function() {
+  document.getElementById('textOutput').innerHTML = 'Hiba történt a fájl beolvasása közben.';
+};
+
+  });
+
+
+
+</script>
+
+</body>
+</html>
